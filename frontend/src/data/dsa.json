@@ -1,0 +1,722 @@
+[
+  {
+    "_id": "tech-001",
+    "id": "tech-001",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Arrays",
+    "title": "Arrays Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Arrays?",
+    "options": [
+      "Arrays should be analyzed using correctness, complexity, and edge cases.",
+      "Arrays never affects performance.",
+      "Arrays is only useful in frontend styling.",
+      "Arrays cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Arrays, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-002",
+    "id": "tech-002",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Arrays",
+    "title": "Arrays Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Arrays?",
+    "options": [
+      "Arrays should be analyzed using correctness, complexity, and edge cases.",
+      "Arrays never affects performance.",
+      "Arrays is only useful in frontend styling.",
+      "Arrays cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Arrays, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-003",
+    "id": "tech-003",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Arrays",
+    "title": "Arrays Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Arrays?",
+    "options": [
+      "Arrays should be analyzed using correctness, complexity, and edge cases.",
+      "Arrays never affects performance.",
+      "Arrays is only useful in frontend styling.",
+      "Arrays cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Arrays, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-004",
+    "id": "tech-004",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Arrays",
+    "title": "Arrays Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Arrays?",
+    "options": [
+      "Arrays should be analyzed using correctness, complexity, and edge cases.",
+      "Arrays never affects performance.",
+      "Arrays is only useful in frontend styling.",
+      "Arrays cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Arrays, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-005",
+    "id": "tech-005",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Arrays",
+    "title": "Arrays Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Arrays?",
+    "options": [
+      "Arrays should be analyzed using correctness, complexity, and edge cases.",
+      "Arrays never affects performance.",
+      "Arrays is only useful in frontend styling.",
+      "Arrays cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Arrays, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-006",
+    "id": "tech-006",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Strings",
+    "title": "Strings Concept Check 1",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Strings?",
+    "options": [
+      "Strings should be analyzed using correctness, complexity, and edge cases.",
+      "Strings never affects performance.",
+      "Strings is only useful in frontend styling.",
+      "Strings cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Strings, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-007",
+    "id": "tech-007",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Strings",
+    "title": "Strings Concept Check 2",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Strings?",
+    "options": [
+      "Strings should be analyzed using correctness, complexity, and edge cases.",
+      "Strings never affects performance.",
+      "Strings is only useful in frontend styling.",
+      "Strings cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Strings, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-008",
+    "id": "tech-008",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Strings",
+    "title": "Strings Concept Check 3",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Strings?",
+    "options": [
+      "Strings should be analyzed using correctness, complexity, and edge cases.",
+      "Strings never affects performance.",
+      "Strings is only useful in frontend styling.",
+      "Strings cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Strings, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-009",
+    "id": "tech-009",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Strings",
+    "title": "Strings Concept Check 4",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Strings?",
+    "options": [
+      "Strings should be analyzed using correctness, complexity, and edge cases.",
+      "Strings never affects performance.",
+      "Strings is only useful in frontend styling.",
+      "Strings cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Strings, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-010",
+    "id": "tech-010",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Strings",
+    "title": "Strings Concept Check 5",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Strings?",
+    "options": [
+      "Strings should be analyzed using correctness, complexity, and edge cases.",
+      "Strings never affects performance.",
+      "Strings is only useful in frontend styling.",
+      "Strings cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Strings, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-011",
+    "id": "tech-011",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Linked Lists",
+    "title": "Linked Lists Concept Check 1",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Linked Lists?",
+    "options": [
+      "Linked Lists should be analyzed using correctness, complexity, and edge cases.",
+      "Linked Lists never affects performance.",
+      "Linked Lists is only useful in frontend styling.",
+      "Linked Lists cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Linked Lists, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-012",
+    "id": "tech-012",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Linked Lists",
+    "title": "Linked Lists Concept Check 2",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Linked Lists?",
+    "options": [
+      "Linked Lists should be analyzed using correctness, complexity, and edge cases.",
+      "Linked Lists never affects performance.",
+      "Linked Lists is only useful in frontend styling.",
+      "Linked Lists cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Linked Lists, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-013",
+    "id": "tech-013",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Linked Lists",
+    "title": "Linked Lists Concept Check 3",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Linked Lists?",
+    "options": [
+      "Linked Lists should be analyzed using correctness, complexity, and edge cases.",
+      "Linked Lists never affects performance.",
+      "Linked Lists is only useful in frontend styling.",
+      "Linked Lists cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Linked Lists, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-014",
+    "id": "tech-014",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Linked Lists",
+    "title": "Linked Lists Concept Check 4",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Linked Lists?",
+    "options": [
+      "Linked Lists should be analyzed using correctness, complexity, and edge cases.",
+      "Linked Lists never affects performance.",
+      "Linked Lists is only useful in frontend styling.",
+      "Linked Lists cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Linked Lists, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-015",
+    "id": "tech-015",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Linked Lists",
+    "title": "Linked Lists Concept Check 5",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Linked Lists?",
+    "options": [
+      "Linked Lists should be analyzed using correctness, complexity, and edge cases.",
+      "Linked Lists never affects performance.",
+      "Linked Lists is only useful in frontend styling.",
+      "Linked Lists cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Linked Lists, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-016",
+    "id": "tech-016",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Stacks",
+    "title": "Stacks Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Stacks?",
+    "options": [
+      "Stacks should be analyzed using correctness, complexity, and edge cases.",
+      "Stacks never affects performance.",
+      "Stacks is only useful in frontend styling.",
+      "Stacks cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Stacks, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-017",
+    "id": "tech-017",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Stacks",
+    "title": "Stacks Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Stacks?",
+    "options": [
+      "Stacks should be analyzed using correctness, complexity, and edge cases.",
+      "Stacks never affects performance.",
+      "Stacks is only useful in frontend styling.",
+      "Stacks cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Stacks, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-018",
+    "id": "tech-018",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Stacks",
+    "title": "Stacks Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Stacks?",
+    "options": [
+      "Stacks should be analyzed using correctness, complexity, and edge cases.",
+      "Stacks never affects performance.",
+      "Stacks is only useful in frontend styling.",
+      "Stacks cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Stacks, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-019",
+    "id": "tech-019",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Stacks",
+    "title": "Stacks Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Stacks?",
+    "options": [
+      "Stacks should be analyzed using correctness, complexity, and edge cases.",
+      "Stacks never affects performance.",
+      "Stacks is only useful in frontend styling.",
+      "Stacks cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Stacks, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-020",
+    "id": "tech-020",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Stacks",
+    "title": "Stacks Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Stacks?",
+    "options": [
+      "Stacks should be analyzed using correctness, complexity, and edge cases.",
+      "Stacks never affects performance.",
+      "Stacks is only useful in frontend styling.",
+      "Stacks cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Stacks, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-021",
+    "id": "tech-021",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Queues",
+    "title": "Queues Concept Check 1",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Queues?",
+    "options": [
+      "Queues should be analyzed using correctness, complexity, and edge cases.",
+      "Queues never affects performance.",
+      "Queues is only useful in frontend styling.",
+      "Queues cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Queues, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-022",
+    "id": "tech-022",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Queues",
+    "title": "Queues Concept Check 2",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Queues?",
+    "options": [
+      "Queues should be analyzed using correctness, complexity, and edge cases.",
+      "Queues never affects performance.",
+      "Queues is only useful in frontend styling.",
+      "Queues cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Queues, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-023",
+    "id": "tech-023",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Queues",
+    "title": "Queues Concept Check 3",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Queues?",
+    "options": [
+      "Queues should be analyzed using correctness, complexity, and edge cases.",
+      "Queues never affects performance.",
+      "Queues is only useful in frontend styling.",
+      "Queues cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Queues, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-024",
+    "id": "tech-024",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Queues",
+    "title": "Queues Concept Check 4",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Queues?",
+    "options": [
+      "Queues should be analyzed using correctness, complexity, and edge cases.",
+      "Queues never affects performance.",
+      "Queues is only useful in frontend styling.",
+      "Queues cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Queues, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-025",
+    "id": "tech-025",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Queues",
+    "title": "Queues Concept Check 5",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Queues?",
+    "options": [
+      "Queues should be analyzed using correctness, complexity, and edge cases.",
+      "Queues never affects performance.",
+      "Queues is only useful in frontend styling.",
+      "Queues cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Queues, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-026",
+    "id": "tech-026",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Trees",
+    "title": "Trees Concept Check 1",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Trees?",
+    "options": [
+      "Trees should be analyzed using correctness, complexity, and edge cases.",
+      "Trees never affects performance.",
+      "Trees is only useful in frontend styling.",
+      "Trees cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Trees, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-027",
+    "id": "tech-027",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Trees",
+    "title": "Trees Concept Check 2",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Trees?",
+    "options": [
+      "Trees should be analyzed using correctness, complexity, and edge cases.",
+      "Trees never affects performance.",
+      "Trees is only useful in frontend styling.",
+      "Trees cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Trees, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-028",
+    "id": "tech-028",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Trees",
+    "title": "Trees Concept Check 3",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Trees?",
+    "options": [
+      "Trees should be analyzed using correctness, complexity, and edge cases.",
+      "Trees never affects performance.",
+      "Trees is only useful in frontend styling.",
+      "Trees cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Trees, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-029",
+    "id": "tech-029",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Trees",
+    "title": "Trees Concept Check 4",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Trees?",
+    "options": [
+      "Trees should be analyzed using correctness, complexity, and edge cases.",
+      "Trees never affects performance.",
+      "Trees is only useful in frontend styling.",
+      "Trees cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Trees, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-030",
+    "id": "tech-030",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Trees",
+    "title": "Trees Concept Check 5",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Trees?",
+    "options": [
+      "Trees should be analyzed using correctness, complexity, and edge cases.",
+      "Trees never affects performance.",
+      "Trees is only useful in frontend styling.",
+      "Trees cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Trees, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-031",
+    "id": "tech-031",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Graphs",
+    "title": "Graphs Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Graphs?",
+    "options": [
+      "Graphs should be analyzed using correctness, complexity, and edge cases.",
+      "Graphs never affects performance.",
+      "Graphs is only useful in frontend styling.",
+      "Graphs cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Graphs, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-032",
+    "id": "tech-032",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Graphs",
+    "title": "Graphs Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Graphs?",
+    "options": [
+      "Graphs should be analyzed using correctness, complexity, and edge cases.",
+      "Graphs never affects performance.",
+      "Graphs is only useful in frontend styling.",
+      "Graphs cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Graphs, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-033",
+    "id": "tech-033",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Graphs",
+    "title": "Graphs Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Graphs?",
+    "options": [
+      "Graphs should be analyzed using correctness, complexity, and edge cases.",
+      "Graphs never affects performance.",
+      "Graphs is only useful in frontend styling.",
+      "Graphs cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Graphs, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-034",
+    "id": "tech-034",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Graphs",
+    "title": "Graphs Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Graphs?",
+    "options": [
+      "Graphs should be analyzed using correctness, complexity, and edge cases.",
+      "Graphs never affects performance.",
+      "Graphs is only useful in frontend styling.",
+      "Graphs cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Graphs, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-035",
+    "id": "tech-035",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Graphs",
+    "title": "Graphs Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Graphs?",
+    "options": [
+      "Graphs should be analyzed using correctness, complexity, and edge cases.",
+      "Graphs never affects performance.",
+      "Graphs is only useful in frontend styling.",
+      "Graphs cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Graphs, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-036",
+    "id": "tech-036",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Dynamic Programming",
+    "title": "Dynamic Programming Concept Check 1",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Dynamic Programming?",
+    "options": [
+      "Dynamic Programming should be analyzed using correctness, complexity, and edge cases.",
+      "Dynamic Programming never affects performance.",
+      "Dynamic Programming is only useful in frontend styling.",
+      "Dynamic Programming cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Dynamic Programming, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-037",
+    "id": "tech-037",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Dynamic Programming",
+    "title": "Dynamic Programming Concept Check 2",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Dynamic Programming?",
+    "options": [
+      "Dynamic Programming should be analyzed using correctness, complexity, and edge cases.",
+      "Dynamic Programming never affects performance.",
+      "Dynamic Programming is only useful in frontend styling.",
+      "Dynamic Programming cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Dynamic Programming, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-038",
+    "id": "tech-038",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Dynamic Programming",
+    "title": "Dynamic Programming Concept Check 3",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Dynamic Programming?",
+    "options": [
+      "Dynamic Programming should be analyzed using correctness, complexity, and edge cases.",
+      "Dynamic Programming never affects performance.",
+      "Dynamic Programming is only useful in frontend styling.",
+      "Dynamic Programming cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Dynamic Programming, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-039",
+    "id": "tech-039",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Dynamic Programming",
+    "title": "Dynamic Programming Concept Check 4",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Dynamic Programming?",
+    "options": [
+      "Dynamic Programming should be analyzed using correctness, complexity, and edge cases.",
+      "Dynamic Programming never affects performance.",
+      "Dynamic Programming is only useful in frontend styling.",
+      "Dynamic Programming cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Dynamic Programming, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-040",
+    "id": "tech-040",
+    "category": "technical",
+    "subCategory": "DSA",
+    "topic": "Dynamic Programming",
+    "title": "Dynamic Programming Concept Check 5",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Dynamic Programming?",
+    "options": [
+      "Dynamic Programming should be analyzed using correctness, complexity, and edge cases.",
+      "Dynamic Programming never affects performance.",
+      "Dynamic Programming is only useful in frontend styling.",
+      "Dynamic Programming cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Dynamic Programming, why it matters, complexity or trade-offs, and an example edge case."
+  }
+]

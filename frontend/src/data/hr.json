@@ -1,0 +1,866 @@
+[
+  {
+    "_id": "hr-001",
+    "id": "hr-001",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 1)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-002",
+    "id": "hr-002",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 2)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-003",
+    "id": "hr-003",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 3)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-004",
+    "id": "hr-004",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What is your greatest weakness?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What is your greatest weakness? (HR Interview variant 4)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-005",
+    "id": "hr-005",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why this company?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Why this company? (HR Interview variant 5)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-006",
+    "id": "hr-006",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 6)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-007",
+    "id": "hr-007",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 7)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-008",
+    "id": "hr-008",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 8)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-009",
+    "id": "hr-009",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What is your greatest weakness?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: What is your greatest weakness? (HR Interview variant 9)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-010",
+    "id": "hr-010",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why this company?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Why this company? (HR Interview variant 10)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-011",
+    "id": "hr-011",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 11)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-012",
+    "id": "hr-012",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 12)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-013",
+    "id": "hr-013",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 13)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-014",
+    "id": "hr-014",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What is your greatest weakness?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: What is your greatest weakness? (HR Interview variant 14)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-015",
+    "id": "hr-015",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why this company?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Why this company? (HR Interview variant 15)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-016",
+    "id": "hr-016",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 16)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-017",
+    "id": "hr-017",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 17)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-018",
+    "id": "hr-018",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 18)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-019",
+    "id": "hr-019",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What is your greatest weakness?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What is your greatest weakness? (HR Interview variant 19)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-020",
+    "id": "hr-020",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why this company?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Why this company? (HR Interview variant 20)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-021",
+    "id": "hr-021",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 21)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-022",
+    "id": "hr-022",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 22)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-023",
+    "id": "hr-023",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 23)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-024",
+    "id": "hr-024",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What is your greatest weakness?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: What is your greatest weakness? (HR Interview variant 24)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-025",
+    "id": "hr-025",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why this company?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Why this company? (HR Interview variant 25)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-026",
+    "id": "hr-026",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Tell me about yourself.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Tell me about yourself. (HR Interview variant 26)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-027",
+    "id": "hr-027",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "Why should we hire you?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Why should we hire you? (HR Interview variant 27)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-028",
+    "id": "hr-028",
+    "category": "hr",
+    "subCategory": "HR Interview",
+    "topic": "HR Interview",
+    "title": "What are your strengths?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What are your strengths? (HR Interview variant 28)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-029",
+    "id": "hr-029",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain time complexity.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Explain time complexity. (Technical Interview variant 1)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-030",
+    "id": "hr-030",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Describe normalization.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Describe normalization. (Technical Interview variant 2)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-031",
+    "id": "hr-031",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "What is polymorphism?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What is polymorphism? (Technical Interview variant 3)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-032",
+    "id": "hr-032",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain deadlock.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Explain deadlock. (Technical Interview variant 4)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-033",
+    "id": "hr-033",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "How does hashing work?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: How does hashing work? (Technical Interview variant 5)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-034",
+    "id": "hr-034",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain time complexity.",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Explain time complexity. (Technical Interview variant 6)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-035",
+    "id": "hr-035",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Describe normalization.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Describe normalization. (Technical Interview variant 7)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-036",
+    "id": "hr-036",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "What is polymorphism?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: What is polymorphism? (Technical Interview variant 8)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-037",
+    "id": "hr-037",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain deadlock.",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Explain deadlock. (Technical Interview variant 9)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-038",
+    "id": "hr-038",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "How does hashing work?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: How does hashing work? (Technical Interview variant 10)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-039",
+    "id": "hr-039",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain time complexity.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Explain time complexity. (Technical Interview variant 11)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-040",
+    "id": "hr-040",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Describe normalization.",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: Describe normalization. (Technical Interview variant 12)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-041",
+    "id": "hr-041",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "What is polymorphism?",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: What is polymorphism? (Technical Interview variant 13)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-042",
+    "id": "hr-042",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain deadlock.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Explain deadlock. (Technical Interview variant 14)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-043",
+    "id": "hr-043",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "How does hashing work?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: How does hashing work? (Technical Interview variant 15)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-044",
+    "id": "hr-044",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain time complexity.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Explain time complexity. (Technical Interview variant 16)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-045",
+    "id": "hr-045",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Describe normalization.",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: Describe normalization. (Technical Interview variant 17)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-046",
+    "id": "hr-046",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "What is polymorphism?",
+    "difficulty": "Easy",
+    "questionText": "What is the best strategy for: What is polymorphism? (Technical Interview variant 18)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-047",
+    "id": "hr-047",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "Explain deadlock.",
+    "difficulty": "Medium",
+    "questionText": "What is the best strategy for: Explain deadlock. (Technical Interview variant 19)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  },
+  {
+    "_id": "hr-048",
+    "id": "hr-048",
+    "category": "hr",
+    "subCategory": "Technical Interview",
+    "topic": "Technical Interview",
+    "title": "How does hashing work?",
+    "difficulty": "Hard",
+    "questionText": "What is the best strategy for: How does hashing work? (Technical Interview variant 20)",
+    "options": [
+      "Use a structured answer with context, action, and measurable result",
+      "Give a one-word answer and wait for follow-up",
+      "Avoid details to keep the interviewer guessing",
+      "Memorize a generic answer unrelated to the role"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Interviewers evaluate structure, evidence, communication, and fit. A specific example with a measurable result is stronger than a vague or memorized answer."
+  }
+]

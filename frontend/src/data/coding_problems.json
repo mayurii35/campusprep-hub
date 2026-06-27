@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "code-001",
+    "_id": "code-001",
+    "category": "Arrays",
+    "title": "Two Sum Indices 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Arrays",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [1, 2, 3, 4, 5]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Two Sum Indices 1\n  return null;\n}"
+  },
+  {
+    "id": "code-002",
+    "_id": "code-002",
+    "category": "Arrays",
+    "title": "Maximum Subarray Sum 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Maximum Subarray Sum 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [2, 4, 6, 8, 10, 12]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Maximum Subarray Sum 1\n  return null;\n}"
+  },
+  {
+    "id": "code-003",
+    "_id": "code-003",
+    "category": "Arrays",
+    "title": "Rotate Array 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Arrays",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [3, 6, 9, 12, 15, 18, 21]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Rotate Array 1\n  return null;\n}"
+  },
+  {
+    "id": "code-004",
+    "_id": "code-004",
+    "category": "Arrays",
+    "title": "Merge Intervals 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Arrays",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Merge Intervals 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [1, 2, 3, 4, 5, 6, 7, 8]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Intervals 1\n  return null;\n}"
+  },
+  {
+    "id": "code-005",
+    "_id": "code-005",
+    "category": "Arrays",
+    "title": "Product Except Self 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Arrays",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Product Except Self 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [2, 4, 6, 8, 10, 12, 14, 16, 18]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Product Except Self 1\n  return null;\n}"
+  },
+  {
+    "id": "code-006",
+    "_id": "code-006",
+    "category": "Arrays",
+    "title": "Two Sum Indices 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Arrays",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Two Sum Indices 2\n  return null;\n}"
+  },
+  {
+    "id": "code-007",
+    "_id": "code-007",
+    "category": "Arrays",
+    "title": "Maximum Subarray Sum 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Arrays",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Maximum Subarray Sum 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Maximum Subarray Sum 2\n  return null;\n}"
+  },
+  {
+    "id": "code-008",
+    "_id": "code-008",
+    "category": "Arrays",
+    "title": "Rotate Array 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Arrays",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Rotate Array 2\n  return null;\n}"
+  },
+  {
+    "id": "code-009",
+    "_id": "code-009",
+    "category": "Arrays",
+    "title": "Merge Intervals 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Arrays",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Merge Intervals 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [3, 6, 9, 12, 15]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Intervals 2\n  return null;\n}"
+  },
+  {
+    "id": "code-010",
+    "_id": "code-010",
+    "category": "Arrays",
+    "title": "Product Except Self 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Arrays",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Product Except Self 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [1, 2, 3, 4, 5, 6]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Product Except Self 2\n  return null;\n}"
+  },
+  {
+    "id": "code-011",
+    "_id": "code-011",
+    "category": "Arrays",
+    "title": "Two Sum Indices 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Arrays",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [2, 4, 6, 8, 10, 12, 14]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Two Sum Indices 3\n  return null;\n}"
+  },
+  {
+    "id": "code-012",
+    "_id": "code-012",
+    "category": "Arrays",
+    "title": "Maximum Subarray Sum 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Arrays",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Maximum Subarray Sum 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [3, 6, 9, 12, 15, 18, 21, 24]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Maximum Subarray Sum 3\n  return null;\n}"
+  },
+  {
+    "id": "code-013",
+    "_id": "code-013",
+    "category": "Arrays",
+    "title": "Rotate Array 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Arrays",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Rotate Array 3\n  return null;\n}"
+  },
+  {
+    "id": "code-014",
+    "_id": "code-014",
+    "category": "Arrays",
+    "title": "Merge Intervals 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Arrays",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on arrays, design an efficient algorithm for \"Merge Intervals 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for arrays, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Intervals 3\n  return null;\n}"
+  },
+  {
+    "id": "code-015",
+    "_id": "code-015",
+    "category": "Strings",
+    "title": "Valid Anagram 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Strings",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Valid Anagram 1\n  return null;\n}"
+  },
+  {
+    "id": "code-016",
+    "_id": "code-016",
+    "category": "Strings",
+    "title": "Longest Common Prefix 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Strings",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Longest Common Prefix 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Common Prefix 1\n  return null;\n}"
+  },
+  {
+    "id": "code-017",
+    "_id": "code-017",
+    "category": "Strings",
+    "title": "Compress String 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Strings",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Compress String 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Compress String 1\n  return null;\n}"
+  },
+  {
+    "id": "code-018",
+    "_id": "code-018",
+    "category": "Strings",
+    "title": "First Unique Character 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Strings",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"First Unique Character 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Unique Character 1\n  return null;\n}"
+  },
+  {
+    "id": "code-019",
+    "_id": "code-019",
+    "category": "Strings",
+    "title": "Balanced Parentheses String 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Strings",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Balanced Parentheses String 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Balanced Parentheses String 1\n  return null;\n}"
+  },
+  {
+    "id": "code-020",
+    "_id": "code-020",
+    "category": "Strings",
+    "title": "Valid Anagram 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Strings",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Valid Anagram 2\n  return null;\n}"
+  },
+  {
+    "id": "code-021",
+    "_id": "code-021",
+    "category": "Strings",
+    "title": "Longest Common Prefix 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Strings",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Longest Common Prefix 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Common Prefix 2\n  return null;\n}"
+  },
+  {
+    "id": "code-022",
+    "_id": "code-022",
+    "category": "Strings",
+    "title": "Compress String 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Strings",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Compress String 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Compress String 2\n  return null;\n}"
+  },
+  {
+    "id": "code-023",
+    "_id": "code-023",
+    "category": "Strings",
+    "title": "First Unique Character 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Strings",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"First Unique Character 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Unique Character 2\n  return null;\n}"
+  },
+  {
+    "id": "code-024",
+    "_id": "code-024",
+    "category": "Strings",
+    "title": "Balanced Parentheses String 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Strings",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Balanced Parentheses String 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Balanced Parentheses String 2\n  return null;\n}"
+  },
+  {
+    "id": "code-025",
+    "_id": "code-025",
+    "category": "Strings",
+    "title": "Valid Anagram 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Strings",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Valid Anagram 3\n  return null;\n}"
+  },
+  {
+    "id": "code-026",
+    "_id": "code-026",
+    "category": "Strings",
+    "title": "Longest Common Prefix 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Strings",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Longest Common Prefix 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Common Prefix 3\n  return null;\n}"
+  },
+  {
+    "id": "code-027",
+    "_id": "code-027",
+    "category": "Strings",
+    "title": "Compress String 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Strings",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"Compress String 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Compress String 3\n  return null;\n}"
+  },
+  {
+    "id": "code-028",
+    "_id": "code-028",
+    "category": "Strings",
+    "title": "First Unique Character 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Strings",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on strings, design an efficient algorithm for \"First Unique Character 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "s = \"campusprep\"",
+    "sampleOutput": "\"prepared result\"",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for strings, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Unique Character 3\n  return null;\n}"
+  },
+  {
+    "id": "code-029",
+    "_id": "code-029",
+    "category": "Linked Lists",
+    "title": "Reverse Linked List 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Linked Lists",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Reverse Linked List 1\n  return null;\n}"
+  },
+  {
+    "id": "code-030",
+    "_id": "code-030",
+    "category": "Linked Lists",
+    "title": "Detect Cycle 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked Lists",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Detect Cycle 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Detect Cycle 1\n  return null;\n}"
+  },
+  {
+    "id": "code-031",
+    "_id": "code-031",
+    "category": "Linked Lists",
+    "title": "Merge Two Sorted Lists 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked Lists",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Two Sorted Lists 1\n  return null;\n}"
+  },
+  {
+    "id": "code-032",
+    "_id": "code-032",
+    "category": "Linked Lists",
+    "title": "Remove Nth Node 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Linked Lists",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Remove Nth Node 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Remove Nth Node 1\n  return null;\n}"
+  },
+  {
+    "id": "code-033",
+    "_id": "code-033",
+    "category": "Linked Lists",
+    "title": "Find Middle Node 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked Lists",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Find Middle Node 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Find Middle Node 1\n  return null;\n}"
+  },
+  {
+    "id": "code-034",
+    "_id": "code-034",
+    "category": "Linked Lists",
+    "title": "Reverse Linked List 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked Lists",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Reverse Linked List 2\n  return null;\n}"
+  },
+  {
+    "id": "code-035",
+    "_id": "code-035",
+    "category": "Linked Lists",
+    "title": "Detect Cycle 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Linked Lists",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Detect Cycle 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Detect Cycle 2\n  return null;\n}"
+  },
+  {
+    "id": "code-036",
+    "_id": "code-036",
+    "category": "Linked Lists",
+    "title": "Merge Two Sorted Lists 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked Lists",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Two Sorted Lists 2\n  return null;\n}"
+  },
+  {
+    "id": "code-037",
+    "_id": "code-037",
+    "category": "Linked Lists",
+    "title": "Remove Nth Node 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked Lists",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Remove Nth Node 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Remove Nth Node 2\n  return null;\n}"
+  },
+  {
+    "id": "code-038",
+    "_id": "code-038",
+    "category": "Linked Lists",
+    "title": "Find Middle Node 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Linked Lists",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Find Middle Node 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Find Middle Node 2\n  return null;\n}"
+  },
+  {
+    "id": "code-039",
+    "_id": "code-039",
+    "category": "Linked Lists",
+    "title": "Reverse Linked List 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked Lists",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Reverse Linked List 3\n  return null;\n}"
+  },
+  {
+    "id": "code-040",
+    "_id": "code-040",
+    "category": "Linked Lists",
+    "title": "Detect Cycle 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked Lists",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Detect Cycle 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Detect Cycle 3\n  return null;\n}"
+  },
+  {
+    "id": "code-041",
+    "_id": "code-041",
+    "category": "Linked Lists",
+    "title": "Merge Two Sorted Lists 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Linked Lists",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Merge Two Sorted Lists 3\n  return null;\n}"
+  },
+  {
+    "id": "code-042",
+    "_id": "code-042",
+    "category": "Linked Lists",
+    "title": "Remove Nth Node 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked Lists",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on linked lists, design an efficient algorithm for \"Remove Nth Node 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "head = [1, 2, 3, 4, 5]",
+    "sampleOutput": "[5, 4, 3, 2, 1]",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for linked lists, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Remove Nth Node 3\n  return null;\n}"
+  },
+  {
+    "id": "code-043",
+    "_id": "code-043",
+    "category": "Stacks",
+    "title": "Min Stack 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Stacks",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [1, 2, 3, 4, 5, 6, 7, 8]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Min Stack 1\n  return null;\n}"
+  },
+  {
+    "id": "code-044",
+    "_id": "code-044",
+    "category": "Stacks",
+    "title": "Next Greater Element 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Stacks",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Next Greater Element 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [2, 4, 6, 8, 10, 12, 14, 16, 18]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Next Greater Element 1\n  return null;\n}"
+  },
+  {
+    "id": "code-045",
+    "_id": "code-045",
+    "category": "Stacks",
+    "title": "Evaluate Postfix Expression 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Stacks",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Evaluate Postfix Expression 1\n  return null;\n}"
+  },
+  {
+    "id": "code-046",
+    "_id": "code-046",
+    "category": "Stacks",
+    "title": "Daily Temperatures 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Stacks",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Daily Temperatures 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Daily Temperatures 1\n  return null;\n}"
+  },
+  {
+    "id": "code-047",
+    "_id": "code-047",
+    "category": "Stacks",
+    "title": "Remove Duplicate Letters 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Stacks",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Remove Duplicate Letters 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Remove Duplicate Letters 1\n  return null;\n}"
+  },
+  {
+    "id": "code-048",
+    "_id": "code-048",
+    "category": "Stacks",
+    "title": "Min Stack 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Stacks",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [3, 6, 9, 12, 15]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Min Stack 2\n  return null;\n}"
+  },
+  {
+    "id": "code-049",
+    "_id": "code-049",
+    "category": "Stacks",
+    "title": "Next Greater Element 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Stacks",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Next Greater Element 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [1, 2, 3, 4, 5, 6]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Next Greater Element 2\n  return null;\n}"
+  },
+  {
+    "id": "code-050",
+    "_id": "code-050",
+    "category": "Stacks",
+    "title": "Evaluate Postfix Expression 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Stacks",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [2, 4, 6, 8, 10, 12, 14]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Evaluate Postfix Expression 2\n  return null;\n}"
+  },
+  {
+    "id": "code-051",
+    "_id": "code-051",
+    "category": "Stacks",
+    "title": "Daily Temperatures 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Stacks",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Daily Temperatures 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [3, 6, 9, 12, 15, 18, 21, 24]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Daily Temperatures 2\n  return null;\n}"
+  },
+  {
+    "id": "code-052",
+    "_id": "code-052",
+    "category": "Stacks",
+    "title": "Remove Duplicate Letters 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Stacks",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Remove Duplicate Letters 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Remove Duplicate Letters 2\n  return null;\n}"
+  },
+  {
+    "id": "code-053",
+    "_id": "code-053",
+    "category": "Stacks",
+    "title": "Min Stack 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Stacks",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Min Stack 3\n  return null;\n}"
+  },
+  {
+    "id": "code-054",
+    "_id": "code-054",
+    "category": "Stacks",
+    "title": "Next Greater Element 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Stacks",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Next Greater Element 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Next Greater Element 3\n  return null;\n}"
+  },
+  {
+    "id": "code-055",
+    "_id": "code-055",
+    "category": "Stacks",
+    "title": "Evaluate Postfix Expression 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Stacks",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Evaluate Postfix Expression 3\n  return null;\n}"
+  },
+  {
+    "id": "code-056",
+    "_id": "code-056",
+    "category": "Stacks",
+    "title": "Daily Temperatures 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Stacks",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on stacks, design an efficient algorithm for \"Daily Temperatures 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [2, 4, 6, 8, 10]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for stacks, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Daily Temperatures 3\n  return null;\n}"
+  },
+  {
+    "id": "code-057",
+    "_id": "code-057",
+    "category": "Queues",
+    "title": "Implement Queue Using Stacks 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Queues",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Implement Queue Using Stacks 1\n  return null;\n}"
+  },
+  {
+    "id": "code-058",
+    "_id": "code-058",
+    "category": "Queues",
+    "title": "Circular Queue 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Queues",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Circular Queue 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Circular Queue 1\n  return null;\n}"
+  },
+  {
+    "id": "code-059",
+    "_id": "code-059",
+    "category": "Queues",
+    "title": "First Non-Repeating Character Stream 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Queues",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Non-Repeating Character Stream 1\n  return null;\n}"
+  },
+  {
+    "id": "code-060",
+    "_id": "code-060",
+    "category": "Queues",
+    "title": "Sliding Window Maximum 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Queues",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Sliding Window Maximum 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Sliding Window Maximum 1\n  return null;\n}"
+  },
+  {
+    "id": "code-061",
+    "_id": "code-061",
+    "category": "Queues",
+    "title": "Rotten Oranges 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Queues",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Rotten Oranges 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [2, 4, 6, 8, 10]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Rotten Oranges 1\n  return null;\n}"
+  },
+  {
+    "id": "code-062",
+    "_id": "code-062",
+    "category": "Queues",
+    "title": "Implement Queue Using Stacks 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Queues",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [3, 6, 9, 12, 15, 18]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Implement Queue Using Stacks 2\n  return null;\n}"
+  },
+  {
+    "id": "code-063",
+    "_id": "code-063",
+    "category": "Queues",
+    "title": "Circular Queue 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Queues",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Circular Queue 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [1, 2, 3, 4, 5, 6, 7]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Circular Queue 2\n  return null;\n}"
+  },
+  {
+    "id": "code-064",
+    "_id": "code-064",
+    "category": "Queues",
+    "title": "First Non-Repeating Character Stream 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Queues",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [2, 4, 6, 8, 10, 12, 14, 16]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Non-Repeating Character Stream 2\n  return null;\n}"
+  },
+  {
+    "id": "code-065",
+    "_id": "code-065",
+    "category": "Queues",
+    "title": "Sliding Window Maximum 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Queues",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Sliding Window Maximum 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [3, 6, 9, 12, 15, 18, 21, 24, 27]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Sliding Window Maximum 2\n  return null;\n}"
+  },
+  {
+    "id": "code-066",
+    "_id": "code-066",
+    "category": "Queues",
+    "title": "Rotten Oranges 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Queues",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Rotten Oranges 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Rotten Oranges 2\n  return null;\n}"
+  },
+  {
+    "id": "code-067",
+    "_id": "code-067",
+    "category": "Queues",
+    "title": "Implement Queue Using Stacks 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Queues",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Implement Queue Using Stacks 3\n  return null;\n}"
+  },
+  {
+    "id": "code-068",
+    "_id": "code-068",
+    "category": "Queues",
+    "title": "Circular Queue 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Queues",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Circular Queue 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Circular Queue 3\n  return null;\n}"
+  },
+  {
+    "id": "code-069",
+    "_id": "code-069",
+    "category": "Queues",
+    "title": "First Non-Repeating Character Stream 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Queues",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [1, 2, 3, 4, 5]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement First Non-Repeating Character Stream 3\n  return null;\n}"
+  },
+  {
+    "id": "code-070",
+    "_id": "code-070",
+    "category": "Queues",
+    "title": "Sliding Window Maximum 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Queues",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on queues, design an efficient algorithm for \"Sliding Window Maximum 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [2, 4, 6, 8, 10, 12]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for queues, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Sliding Window Maximum 3\n  return null;\n}"
+  },
+  {
+    "id": "code-071",
+    "_id": "code-071",
+    "category": "Trees",
+    "title": "Level Order Traversal 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Trees",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Level Order Traversal 1\n  return null;\n}"
+  },
+  {
+    "id": "code-072",
+    "_id": "code-072",
+    "category": "Trees",
+    "title": "Lowest Common Ancestor 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Trees",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Lowest Common Ancestor 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Lowest Common Ancestor 1\n  return null;\n}"
+  },
+  {
+    "id": "code-073",
+    "_id": "code-073",
+    "category": "Trees",
+    "title": "Validate BST 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Trees",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Validate BST 1\n  return null;\n}"
+  },
+  {
+    "id": "code-074",
+    "_id": "code-074",
+    "category": "Trees",
+    "title": "Diameter of Binary Tree 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Trees",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Diameter of Binary Tree 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [1, 2, 3, 4, 5]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Diameter of Binary Tree 1\n  return null;\n}"
+  },
+  {
+    "id": "code-075",
+    "_id": "code-075",
+    "category": "Trees",
+    "title": "Serialize Binary Tree 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Trees",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Serialize Binary Tree 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [2, 4, 6, 8, 10, 12]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Serialize Binary Tree 1\n  return null;\n}"
+  },
+  {
+    "id": "code-076",
+    "_id": "code-076",
+    "category": "Trees",
+    "title": "Level Order Traversal 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Trees",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [3, 6, 9, 12, 15, 18, 21]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Level Order Traversal 2\n  return null;\n}"
+  },
+  {
+    "id": "code-077",
+    "_id": "code-077",
+    "category": "Trees",
+    "title": "Lowest Common Ancestor 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Trees",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Lowest Common Ancestor 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [1, 2, 3, 4, 5, 6, 7, 8]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Lowest Common Ancestor 2\n  return null;\n}"
+  },
+  {
+    "id": "code-078",
+    "_id": "code-078",
+    "category": "Trees",
+    "title": "Validate BST 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Trees",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [2, 4, 6, 8, 10, 12, 14, 16, 18]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Validate BST 2\n  return null;\n}"
+  },
+  {
+    "id": "code-079",
+    "_id": "code-079",
+    "category": "Trees",
+    "title": "Diameter of Binary Tree 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Trees",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Diameter of Binary Tree 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Diameter of Binary Tree 2\n  return null;\n}"
+  },
+  {
+    "id": "code-080",
+    "_id": "code-080",
+    "category": "Trees",
+    "title": "Serialize Binary Tree 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Trees",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Serialize Binary Tree 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Serialize Binary Tree 2\n  return null;\n}"
+  },
+  {
+    "id": "code-081",
+    "_id": "code-081",
+    "category": "Trees",
+    "title": "Level Order Traversal 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Trees",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Level Order Traversal 3\n  return null;\n}"
+  },
+  {
+    "id": "code-082",
+    "_id": "code-082",
+    "category": "Trees",
+    "title": "Lowest Common Ancestor 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Trees",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Lowest Common Ancestor 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [3, 6, 9, 12, 15]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Lowest Common Ancestor 3\n  return null;\n}"
+  },
+  {
+    "id": "code-083",
+    "_id": "code-083",
+    "category": "Trees",
+    "title": "Validate BST 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Trees",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [1, 2, 3, 4, 5, 6]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Validate BST 3\n  return null;\n}"
+  },
+  {
+    "id": "code-084",
+    "_id": "code-084",
+    "category": "Trees",
+    "title": "Diameter of Binary Tree 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Trees",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on trees, design an efficient algorithm for \"Diameter of Binary Tree 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [2, 4, 6, 8, 10, 12, 14]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for trees, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Diameter of Binary Tree 3\n  return null;\n}"
+  },
+  {
+    "id": "code-085",
+    "_id": "code-085",
+    "category": "Graphs",
+    "title": "Number of Islands 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Graphs",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Number of Islands 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Number of Islands 1\n  return null;\n}"
+  },
+  {
+    "id": "code-086",
+    "_id": "code-086",
+    "category": "Graphs",
+    "title": "Shortest Path BFS 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Graphs",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Shortest Path BFS 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Shortest Path BFS 1\n  return null;\n}"
+  },
+  {
+    "id": "code-087",
+    "_id": "code-087",
+    "category": "Graphs",
+    "title": "Course Schedule 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Graphs",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Course Schedule 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [3, 6, 9, 12, 15]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Course Schedule 1\n  return null;\n}"
+  },
+  {
+    "id": "code-088",
+    "_id": "code-088",
+    "category": "Graphs",
+    "title": "Clone Graph 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Graphs",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Clone Graph 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [1, 2, 3, 4, 5, 6]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Clone Graph 1\n  return null;\n}"
+  },
+  {
+    "id": "code-089",
+    "_id": "code-089",
+    "category": "Graphs",
+    "title": "Detect Cycle in Graph 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Graphs",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Detect Cycle in Graph 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [2, 4, 6, 8, 10, 12, 14]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Detect Cycle in Graph 1\n  return null;\n}"
+  },
+  {
+    "id": "code-090",
+    "_id": "code-090",
+    "category": "Graphs",
+    "title": "Number of Islands 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Graphs",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Number of Islands 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [3, 6, 9, 12, 15, 18, 21, 24]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Number of Islands 2\n  return null;\n}"
+  },
+  {
+    "id": "code-091",
+    "_id": "code-091",
+    "category": "Graphs",
+    "title": "Shortest Path BFS 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Graphs",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Shortest Path BFS 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Shortest Path BFS 2\n  return null;\n}"
+  },
+  {
+    "id": "code-092",
+    "_id": "code-092",
+    "category": "Graphs",
+    "title": "Course Schedule 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Graphs",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Course Schedule 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Course Schedule 2\n  return null;\n}"
+  },
+  {
+    "id": "code-093",
+    "_id": "code-093",
+    "category": "Graphs",
+    "title": "Clone Graph 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Graphs",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Clone Graph 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Clone Graph 2\n  return null;\n}"
+  },
+  {
+    "id": "code-094",
+    "_id": "code-094",
+    "category": "Graphs",
+    "title": "Detect Cycle in Graph 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Graphs",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Detect Cycle in Graph 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Detect Cycle in Graph 2\n  return null;\n}"
+  },
+  {
+    "id": "code-095",
+    "_id": "code-095",
+    "category": "Graphs",
+    "title": "Number of Islands 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Graphs",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Number of Islands 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [2, 4, 6, 8, 10]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Number of Islands 3\n  return null;\n}"
+  },
+  {
+    "id": "code-096",
+    "_id": "code-096",
+    "category": "Graphs",
+    "title": "Shortest Path BFS 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Graphs",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Shortest Path BFS 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [3, 6, 9, 12, 15, 18]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Shortest Path BFS 3\n  return null;\n}"
+  },
+  {
+    "id": "code-097",
+    "_id": "code-097",
+    "category": "Graphs",
+    "title": "Course Schedule 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Graphs",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Course Schedule 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [1, 2, 3, 4, 5, 6, 7]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Course Schedule 3\n  return null;\n}"
+  },
+  {
+    "id": "code-098",
+    "_id": "code-098",
+    "category": "Graphs",
+    "title": "Clone Graph 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Graphs",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on graphs, design an efficient algorithm for \"Clone Graph 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [2, 4, 6, 8, 10, 12, 14, 16]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for graphs, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Clone Graph 3\n  return null;\n}"
+  },
+  {
+    "id": "code-099",
+    "_id": "code-099",
+    "category": "Dynamic Programming",
+    "title": "Climbing Stairs 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Dynamic Programming",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Climbing Stairs 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Climbing Stairs 1\n  return null;\n}"
+  },
+  {
+    "id": "code-100",
+    "_id": "code-100",
+    "category": "Dynamic Programming",
+    "title": "Coin Change 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Dynamic Programming",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Coin Change 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [2, 4, 6, 8, 10]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Coin Change 1\n  return null;\n}"
+  },
+  {
+    "id": "code-101",
+    "_id": "code-101",
+    "category": "Dynamic Programming",
+    "title": "Longest Increasing Subsequence 1",
+    "difficulty": "Easy",
+    "tags": [
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Longest Increasing Subsequence 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [3, 6, 9, 12, 15, 18]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Increasing Subsequence 1\n  return null;\n}"
+  },
+  {
+    "id": "code-102",
+    "_id": "code-102",
+    "category": "Dynamic Programming",
+    "title": "0/1 Knapsack 1",
+    "difficulty": "Medium",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"0/1 Knapsack 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [1, 2, 3, 4, 5, 6, 7]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement 0/1 Knapsack 1\n  return null;\n}"
+  },
+  {
+    "id": "code-103",
+    "_id": "code-103",
+    "category": "Dynamic Programming",
+    "title": "Edit Distance 1",
+    "difficulty": "Hard",
+    "tags": [
+      "Dynamic Programming",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Edit Distance 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [2, 4, 6, 8, 10, 12, 14, 16]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Edit Distance 1\n  return null;\n}"
+  },
+  {
+    "id": "code-104",
+    "_id": "code-104",
+    "category": "Dynamic Programming",
+    "title": "Climbing Stairs 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Dynamic Programming",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Climbing Stairs 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [3, 6, 9, 12, 15, 18, 21, 24, 27]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Climbing Stairs 2\n  return null;\n}"
+  },
+  {
+    "id": "code-105",
+    "_id": "code-105",
+    "category": "Dynamic Programming",
+    "title": "Coin Change 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Coin Change 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 10, values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",
+    "sampleOutput": "55",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Coin Change 2\n  return null;\n}"
+  },
+  {
+    "id": "code-106",
+    "_id": "code-106",
+    "category": "Dynamic Programming",
+    "title": "Longest Increasing Subsequence 2",
+    "difficulty": "Hard",
+    "tags": [
+      "Dynamic Programming",
+      "Hashing"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Longest Increasing Subsequence 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 11, values = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22]",
+    "sampleOutput": "66",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Increasing Subsequence 2\n  return null;\n}"
+  },
+  {
+    "id": "code-107",
+    "_id": "code-107",
+    "category": "Dynamic Programming",
+    "title": "0/1 Knapsack 2",
+    "difficulty": "Easy",
+    "tags": [
+      "Dynamic Programming",
+      "Two Pointers"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"0/1 Knapsack 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 12, values = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36]",
+    "sampleOutput": "78",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement 0/1 Knapsack 2\n  return null;\n}"
+  },
+  {
+    "id": "code-108",
+    "_id": "code-108",
+    "category": "Dynamic Programming",
+    "title": "Edit Distance 2",
+    "difficulty": "Medium",
+    "tags": [
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Edit Distance 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 5, values = [1, 2, 3, 4, 5]",
+    "sampleOutput": "15",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Edit Distance 2\n  return null;\n}"
+  },
+  {
+    "id": "code-109",
+    "_id": "code-109",
+    "category": "Dynamic Programming",
+    "title": "Climbing Stairs 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Climbing Stairs 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 6, values = [2, 4, 6, 8, 10, 12]",
+    "sampleOutput": "21",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Climbing Stairs 3\n  return null;\n}"
+  },
+  {
+    "id": "code-110",
+    "_id": "code-110",
+    "category": "Dynamic Programming",
+    "title": "Coin Change 3",
+    "difficulty": "Easy",
+    "tags": [
+      "Dynamic Programming",
+      "BFS"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Coin Change 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 7, values = [3, 6, 9, 12, 15, 18, 21]",
+    "sampleOutput": "28",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Coin Change 3\n  return null;\n}"
+  },
+  {
+    "id": "code-111",
+    "_id": "code-111",
+    "category": "Dynamic Programming",
+    "title": "Longest Increasing Subsequence 3",
+    "difficulty": "Medium",
+    "tags": [
+      "Dynamic Programming",
+      "DFS"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"Longest Increasing Subsequence 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 8, values = [1, 2, 3, 4, 5, 6, 7, 8]",
+    "sampleOutput": "36",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement Longest Increasing Subsequence 3\n  return null;\n}"
+  },
+  {
+    "id": "code-112",
+    "_id": "code-112",
+    "category": "Dynamic Programming",
+    "title": "0/1 Knapsack 3",
+    "difficulty": "Hard",
+    "tags": [
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "problemStatement": "Given an input focused on dynamic programming, design an efficient algorithm for \"0/1 Knapsack 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+    "sampleInput": "n = 9, values = [2, 4, 6, 8, 10, 12, 14, 16, 18]",
+    "sampleOutput": "45",
+    "constraints": [
+      "1 <= n <= 100000",
+      "-1000000000 <= value <= 1000000000",
+      "Use O(n log n) time or better where possible"
+    ],
+    "solutionExplanation": "Identify the invariant for dynamic programming, choose the appropriate data structure, process each element once where possible, and maintain only the state needed for the final answer. Discuss time complexity and space complexity clearly in an interview.",
+    "starterCode": "function solve(input) {\n  // Parse input and implement 0/1 Knapsack 3\n  return null;\n}"
+  }
+]

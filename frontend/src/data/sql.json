@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "tech-041",
+    "id": "tech-041",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-042",
+    "id": "tech-042",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-043",
+    "id": "tech-043",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-044",
+    "id": "tech-044",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-045",
+    "id": "tech-045",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "tech-041",
+    "id": "tech-041",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-042",
+    "id": "tech-042",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-043",
+    "id": "tech-043",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-044",
+    "id": "tech-044",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-045",
+    "id": "tech-045",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "SQL Queries",
+    "title": "SQL Queries Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in SQL Queries?",
+    "options": [
+      "SQL Queries should be analyzed using correctness, complexity, and edge cases.",
+      "SQL Queries never affects performance.",
+      "SQL Queries is only useful in frontend styling.",
+      "SQL Queries cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains SQL Queries, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-046",
+    "id": "tech-046",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Normalization",
+    "title": "Normalization Concept Check 1",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Normalization?",
+    "options": [
+      "Normalization should be analyzed using correctness, complexity, and edge cases.",
+      "Normalization never affects performance.",
+      "Normalization is only useful in frontend styling.",
+      "Normalization cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Normalization, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-047",
+    "id": "tech-047",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Normalization",
+    "title": "Normalization Concept Check 2",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Normalization?",
+    "options": [
+      "Normalization should be analyzed using correctness, complexity, and edge cases.",
+      "Normalization never affects performance.",
+      "Normalization is only useful in frontend styling.",
+      "Normalization cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Normalization, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-048",
+    "id": "tech-048",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Normalization",
+    "title": "Normalization Concept Check 3",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Normalization?",
+    "options": [
+      "Normalization should be analyzed using correctness, complexity, and edge cases.",
+      "Normalization never affects performance.",
+      "Normalization is only useful in frontend styling.",
+      "Normalization cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Normalization, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-049",
+    "id": "tech-049",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Normalization",
+    "title": "Normalization Concept Check 4",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Normalization?",
+    "options": [
+      "Normalization should be analyzed using correctness, complexity, and edge cases.",
+      "Normalization never affects performance.",
+      "Normalization is only useful in frontend styling.",
+      "Normalization cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Normalization, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-050",
+    "id": "tech-050",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Normalization",
+    "title": "Normalization Concept Check 5",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Normalization?",
+    "options": [
+      "Normalization should be analyzed using correctness, complexity, and edge cases.",
+      "Normalization never affects performance.",
+      "Normalization is only useful in frontend styling.",
+      "Normalization cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Normalization, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-051",
+    "id": "tech-051",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Transactions",
+    "title": "Transactions Concept Check 1",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Transactions?",
+    "options": [
+      "Transactions should be analyzed using correctness, complexity, and edge cases.",
+      "Transactions never affects performance.",
+      "Transactions is only useful in frontend styling.",
+      "Transactions cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Transactions, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-052",
+    "id": "tech-052",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Transactions",
+    "title": "Transactions Concept Check 2",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Transactions?",
+    "options": [
+      "Transactions should be analyzed using correctness, complexity, and edge cases.",
+      "Transactions never affects performance.",
+      "Transactions is only useful in frontend styling.",
+      "Transactions cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Transactions, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-053",
+    "id": "tech-053",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Transactions",
+    "title": "Transactions Concept Check 3",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Transactions?",
+    "options": [
+      "Transactions should be analyzed using correctness, complexity, and edge cases.",
+      "Transactions never affects performance.",
+      "Transactions is only useful in frontend styling.",
+      "Transactions cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Transactions, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-054",
+    "id": "tech-054",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Transactions",
+    "title": "Transactions Concept Check 4",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Transactions?",
+    "options": [
+      "Transactions should be analyzed using correctness, complexity, and edge cases.",
+      "Transactions never affects performance.",
+      "Transactions is only useful in frontend styling.",
+      "Transactions cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Transactions, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-055",
+    "id": "tech-055",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Transactions",
+    "title": "Transactions Concept Check 5",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Transactions?",
+    "options": [
+      "Transactions should be analyzed using correctness, complexity, and edge cases.",
+      "Transactions never affects performance.",
+      "Transactions is only useful in frontend styling.",
+      "Transactions cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Transactions, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-056",
+    "id": "tech-056",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Indexing",
+    "title": "Indexing Concept Check 1",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Indexing?",
+    "options": [
+      "Indexing should be analyzed using correctness, complexity, and edge cases.",
+      "Indexing never affects performance.",
+      "Indexing is only useful in frontend styling.",
+      "Indexing cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Indexing, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-057",
+    "id": "tech-057",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Indexing",
+    "title": "Indexing Concept Check 2",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Indexing?",
+    "options": [
+      "Indexing should be analyzed using correctness, complexity, and edge cases.",
+      "Indexing never affects performance.",
+      "Indexing is only useful in frontend styling.",
+      "Indexing cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Indexing, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-058",
+    "id": "tech-058",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Indexing",
+    "title": "Indexing Concept Check 3",
+    "difficulty": "Hard",
+    "questionText": "Which statement best describes a key concept in Indexing?",
+    "options": [
+      "Indexing should be analyzed using correctness, complexity, and edge cases.",
+      "Indexing never affects performance.",
+      "Indexing is only useful in frontend styling.",
+      "Indexing cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Indexing, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-059",
+    "id": "tech-059",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Indexing",
+    "title": "Indexing Concept Check 4",
+    "difficulty": "Easy",
+    "questionText": "Which statement best describes a key concept in Indexing?",
+    "options": [
+      "Indexing should be analyzed using correctness, complexity, and edge cases.",
+      "Indexing never affects performance.",
+      "Indexing is only useful in frontend styling.",
+      "Indexing cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Indexing, why it matters, complexity or trade-offs, and an example edge case."
+  },
+  {
+    "_id": "tech-060",
+    "id": "tech-060",
+    "category": "technical",
+    "subCategory": "DBMS",
+    "topic": "Indexing",
+    "title": "Indexing Concept Check 5",
+    "difficulty": "Medium",
+    "questionText": "Which statement best describes a key concept in Indexing?",
+    "options": [
+      "Indexing should be analyzed using correctness, complexity, and edge cases.",
+      "Indexing never affects performance.",
+      "Indexing is only useful in frontend styling.",
+      "Indexing cannot be discussed in interviews."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A good technical answer explains Indexing, why it matters, complexity or trade-offs, and an example edge case."
+  }
+]

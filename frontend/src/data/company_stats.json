@@ -1,0 +1,20 @@
+{
+  "completedTests": 14,
+  "averageAccuracy": 82,
+  "weakAreas": [
+    "Operating Systems",
+    "Probability",
+    "System Design"
+  ],
+  "strengths": [
+    "Arrays",
+    "DBMS",
+    "Verbal Ability"
+  ],
+  "categoryProgress": {
+    "aptitude": 78,
+    "coding": 71,
+    "interview": 68,
+    "companyPrep": 74
+  }
+}

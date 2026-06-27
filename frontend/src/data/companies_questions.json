@@ -1,0 +1,1406 @@
+[
+  {
+    "_id": "company-tcs",
+    "id": "company-tcs",
+    "name": "TCS",
+    "logo": "tcs",
+    "description": "TCS campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "3.6 - 9 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "45 minutes",
+      "questions": 40
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "TCS evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "TCS evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "TCS evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "TCS evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Two Sum Indices 1",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Maximum Subarray Sum 1",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Maximum Subarray Sum 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Rotate Array 1",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Merge Intervals 1",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Merge Intervals 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Product Except Self 1",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Product Except Self 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Two Sum Indices 2",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-infosys",
+    "id": "company-infosys",
+    "name": "Infosys",
+    "logo": "infosys",
+    "description": "Infosys campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "3.6 - 9.5 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "60 minutes",
+      "questions": 50
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Infosys evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Infosys evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Infosys evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Infosys evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Rotate Array 2",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Merge Intervals 2",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Merge Intervals 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Product Except Self 2",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Product Except Self 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Two Sum Indices 3",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Two Sum Indices 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Maximum Subarray Sum 3",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Maximum Subarray Sum 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Rotate Array 3",
+        "questionText": "Given an input focused on arrays, design an efficient algorithm for \"Rotate Array 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-wipro",
+    "id": "company-wipro",
+    "name": "Wipro",
+    "logo": "wipro",
+    "description": "Wipro campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "3.5 - 7.5 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "75 minutes",
+      "questions": 60
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Wipro evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Wipro evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Wipro evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Wipro evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Valid Anagram 1",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Longest Common Prefix 1",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Longest Common Prefix 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Compress String 1",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Compress String 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "First Unique Character 1",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"First Unique Character 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Balanced Parentheses String 1",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Balanced Parentheses String 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Valid Anagram 2",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-accenture",
+    "id": "company-accenture",
+    "name": "Accenture",
+    "logo": "accenture",
+    "description": "Accenture campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "4.5 - 12 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "90 minutes",
+      "questions": 70
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Accenture evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Accenture evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Accenture evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Accenture evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Compress String 2",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Compress String 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "First Unique Character 2",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"First Unique Character 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Balanced Parentheses String 2",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Balanced Parentheses String 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Valid Anagram 3",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Valid Anagram 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Longest Common Prefix 3",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Longest Common Prefix 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Compress String 3",
+        "questionText": "Given an input focused on strings, design an efficient algorithm for \"Compress String 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-cognizant",
+    "id": "company-cognizant",
+    "name": "Cognizant",
+    "logo": "cognizant",
+    "description": "Cognizant campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "4 - 8 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "45 minutes",
+      "questions": 80
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Cognizant evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Cognizant evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Cognizant evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Cognizant evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Reverse Linked List 1",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Detect Cycle 1",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Detect Cycle 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Merge Two Sorted Lists 1",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Remove Nth Node 1",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Remove Nth Node 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Find Middle Node 1",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Find Middle Node 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Reverse Linked List 2",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-capgemini",
+    "id": "company-capgemini",
+    "name": "Capgemini",
+    "logo": "capgemini",
+    "description": "Capgemini campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "4 - 7.5 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "60 minutes",
+      "questions": 40
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Capgemini evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Capgemini evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Capgemini evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Capgemini evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Merge Two Sorted Lists 2",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Remove Nth Node 2",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Remove Nth Node 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Find Middle Node 2",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Find Middle Node 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Reverse Linked List 3",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Reverse Linked List 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Detect Cycle 3",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Detect Cycle 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Merge Two Sorted Lists 3",
+        "questionText": "Given an input focused on linked lists, design an efficient algorithm for \"Merge Two Sorted Lists 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-deloitte",
+    "id": "company-deloitte",
+    "name": "Deloitte",
+    "logo": "deloitte",
+    "description": "Deloitte campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Hard",
+    "roles": [
+      "Software Engineer",
+      "SDE Intern",
+      "Cloud Engineer"
+    ],
+    "packages": "6 - 14 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "75 minutes",
+      "questions": 50
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 3,
+        "focus": "DSA, graphs, dynamic programming"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Deloitte evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Deloitte evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Deloitte evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Deloitte evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Min Stack 1",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Next Greater Element 1",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Next Greater Element 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Evaluate Postfix Expression 1",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Daily Temperatures 1",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Daily Temperatures 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Remove Duplicate Letters 1",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Remove Duplicate Letters 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Min Stack 2",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-ibm",
+    "id": "company-ibm",
+    "name": "IBM",
+    "logo": "ibm",
+    "description": "IBM campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Medium",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "4.5 - 12 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "90 minutes",
+      "questions": 60
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "IBM evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "IBM evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "IBM evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "IBM evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Evaluate Postfix Expression 2",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Daily Temperatures 2",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Daily Temperatures 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Remove Duplicate Letters 2",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Remove Duplicate Letters 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Min Stack 3",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Min Stack 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Next Greater Element 3",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Next Greater Element 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Evaluate Postfix Expression 3",
+        "questionText": "Given an input focused on stacks, design an efficient algorithm for \"Evaluate Postfix Expression 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-tech-mahindra",
+    "id": "company-tech-mahindra",
+    "name": "Tech Mahindra",
+    "logo": "tech-mahindra",
+    "description": "Tech Mahindra campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Easy",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "3.5 - 6.5 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "45 minutes",
+      "questions": 70
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Tech Mahindra evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Tech Mahindra evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Tech Mahindra evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Tech Mahindra evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Implement Queue Using Stacks 1",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Circular Queue 1",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Circular Queue 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "First Non-Repeating Character Stream 1",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Sliding Window Maximum 1",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Sliding Window Maximum 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Rotten Oranges 1",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Rotten Oranges 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Implement Queue Using Stacks 2",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-hcl",
+    "id": "company-hcl",
+    "name": "HCL",
+    "logo": "hcl",
+    "description": "HCL campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Easy",
+    "roles": [
+      "Graduate Engineer Trainee",
+      "Associate Software Engineer",
+      "Analyst Trainee"
+    ],
+    "packages": "3.5 - 6 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "60 minutes",
+      "questions": 80
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 2,
+        "focus": "arrays, strings, basic implementation"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "HCL evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "HCL evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "HCL evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "HCL evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "First Non-Repeating Character Stream 2",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Sliding Window Maximum 2",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Sliding Window Maximum 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Rotten Oranges 2",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Rotten Oranges 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Implement Queue Using Stacks 3",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Implement Queue Using Stacks 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Circular Queue 3",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"Circular Queue 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "First Non-Repeating Character Stream 3",
+        "questionText": "Given an input focused on queues, design an efficient algorithm for \"First Non-Repeating Character Stream 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Associate Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-amazon",
+    "id": "company-amazon",
+    "name": "Amazon",
+    "logo": "amazon",
+    "description": "Amazon campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Hard",
+    "roles": [
+      "Software Engineer",
+      "SDE Intern",
+      "Cloud Engineer"
+    ],
+    "packages": "16 - 32 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "75 minutes",
+      "questions": 40
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 3,
+        "focus": "DSA, graphs, dynamic programming"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Amazon evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Amazon evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Amazon evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Amazon evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Level Order Traversal 1",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Lowest Common Ancestor 1",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Lowest Common Ancestor 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Validate BST 1",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Diameter of Binary Tree 1",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Diameter of Binary Tree 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Serialize Binary Tree 1",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Serialize Binary Tree 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Level Order Traversal 2",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-microsoft",
+    "id": "company-microsoft",
+    "name": "Microsoft",
+    "logo": "microsoft",
+    "description": "Microsoft campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Hard",
+    "roles": [
+      "Software Engineer",
+      "SDE Intern",
+      "Cloud Engineer"
+    ],
+    "packages": "18 - 40 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "90 minutes",
+      "questions": 50
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 3,
+        "focus": "DSA, graphs, dynamic programming"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Microsoft evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Microsoft evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Microsoft evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Microsoft evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Validate BST 2",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Diameter of Binary Tree 2",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Diameter of Binary Tree 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Serialize Binary Tree 2",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Serialize Binary Tree 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Level Order Traversal 3",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Level Order Traversal 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Lowest Common Ancestor 3",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Lowest Common Ancestor 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Validate BST 3",
+        "questionText": "Given an input focused on trees, design an efficient algorithm for \"Validate BST 3\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  },
+  {
+    "_id": "company-google",
+    "id": "company-google",
+    "name": "Google",
+    "logo": "google",
+    "description": "Google campus preparation profile with aptitude, coding, technical, managerial, and HR interview coverage.",
+    "difficulty": "Hard",
+    "roles": [
+      "Software Engineer",
+      "SDE Intern",
+      "Cloud Engineer"
+    ],
+    "packages": "20 - 45 LPA",
+    "aptitudePattern": {
+      "sections": [
+        "Quantitative Aptitude",
+        "Logical Reasoning",
+        "Verbal Ability"
+      ],
+      "duration": "45 minutes",
+      "questions": 60
+    },
+    "codingRounds": [
+      {
+        "name": "Online Coding Round",
+        "problems": 3,
+        "focus": "DSA, graphs, dynamic programming"
+      },
+      {
+        "name": "Technical Discussion",
+        "problems": 1,
+        "focus": "Explain approach, complexity, and edge cases"
+      }
+    ],
+    "selectionProcess": [
+      "Online application",
+      "Aptitude assessment",
+      "Coding assessment",
+      "Technical interview",
+      "HR interview"
+    ],
+    "hiringProcess": [
+      {
+        "roundNumber": 1,
+        "name": "Aptitude assessment",
+        "description": "Google evaluates aptitude assessment with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 2,
+        "name": "Coding round",
+        "description": "Google evaluates coding round with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 3,
+        "name": "Technical interview",
+        "description": "Google evaluates technical interview with role-specific scoring and communication checks."
+      },
+      {
+        "roundNumber": 4,
+        "name": "HR interview",
+        "description": "Google evaluates hr interview with role-specific scoring and communication checks."
+      }
+    ],
+    "previousQuestions": [
+      {
+        "title": "Number of Islands 1",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Number of Islands 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Coding"
+      },
+      {
+        "title": "Shortest Path BFS 1",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Shortest Path BFS 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Technical"
+      },
+      {
+        "title": "Course Schedule 1",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Course Schedule 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Coding"
+      },
+      {
+        "title": "Clone Graph 1",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Clone Graph 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2026",
+        "category": "Technical"
+      },
+      {
+        "title": "Detect Cycle in Graph 1",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Detect Cycle in Graph 1\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2025",
+        "category": "Coding"
+      },
+      {
+        "title": "Number of Islands 2",
+        "questionText": "Given an input focused on graphs, design an efficient algorithm for \"Number of Islands 2\". Return the requested result while handling edge cases such as empty input, duplicates, and boundary sizes.",
+        "role": "Software Engineer",
+        "year": "2024",
+        "category": "Technical"
+      }
+    ]
+  }
+]

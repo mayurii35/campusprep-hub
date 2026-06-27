@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "int-bank-001",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Tell me about yourself. (HR Interview variant 1)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-002",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Why should we hire you? (HR Interview variant 2)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-003",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "What are your strengths? (HR Interview variant 3)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-004",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "What is your greatest weakness? (HR Interview variant 4)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-005",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Why this company? (HR Interview variant 5)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-006",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "Tell me about yourself. (HR Interview variant 6)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-007",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Why should we hire you? (HR Interview variant 7)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-008",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "What are your strengths? (HR Interview variant 8)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-009",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "What is your greatest weakness? (HR Interview variant 9)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-010",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Why this company? (HR Interview variant 10)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-011",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Tell me about yourself. (HR Interview variant 11)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-012",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "Why should we hire you? (HR Interview variant 12)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-013",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "What are your strengths? (HR Interview variant 13)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-014",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "What is your greatest weakness? (HR Interview variant 14)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-015",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "Why this company? (HR Interview variant 15)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-016",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Tell me about yourself. (HR Interview variant 16)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-017",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Why should we hire you? (HR Interview variant 17)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-018",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "What are your strengths? (HR Interview variant 18)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-019",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "What is your greatest weakness? (HR Interview variant 19)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-020",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Why this company? (HR Interview variant 20)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-021",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "Tell me about yourself. (HR Interview variant 21)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-022",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Why should we hire you? (HR Interview variant 22)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-023",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "What are your strengths? (HR Interview variant 23)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-024",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "What is your greatest weakness? (HR Interview variant 24)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-025",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "Why this company? (HR Interview variant 25)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-026",
+    "category": "HR Interview",
+    "difficulty": "Medium",
+    "question": "Tell me about yourself. (HR Interview variant 26)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-027",
+    "category": "HR Interview",
+    "difficulty": "Hard",
+    "question": "Why should we hire you? (HR Interview variant 27)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-028",
+    "category": "HR Interview",
+    "difficulty": "Easy",
+    "question": "What are your strengths? (HR Interview variant 28)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for hr interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-029",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Explain time complexity. (Technical Interview variant 1)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-030",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "Describe normalization. (Technical Interview variant 2)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-031",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "What is polymorphism? (Technical Interview variant 3)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-032",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Explain deadlock. (Technical Interview variant 4)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-033",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "How does hashing work? (Technical Interview variant 5)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-034",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Explain time complexity. (Technical Interview variant 6)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-035",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Describe normalization. (Technical Interview variant 7)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-036",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "What is polymorphism? (Technical Interview variant 8)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-037",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Explain deadlock. (Technical Interview variant 9)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-038",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "How does hashing work? (Technical Interview variant 10)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-039",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "Explain time complexity. (Technical Interview variant 11)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-040",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Describe normalization. (Technical Interview variant 12)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-041",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "What is polymorphism? (Technical Interview variant 13)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-042",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "Explain deadlock. (Technical Interview variant 14)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-043",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "How does hashing work? (Technical Interview variant 15)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-044",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Explain time complexity. (Technical Interview variant 16)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-045",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "Describe normalization. (Technical Interview variant 17)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-046",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "What is polymorphism? (Technical Interview variant 18)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-047",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Explain deadlock. (Technical Interview variant 19)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-048",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "How does hashing work? (Technical Interview variant 20)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-049",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Explain time complexity. (Technical Interview variant 21)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-050",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "Describe normalization. (Technical Interview variant 22)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-051",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "What is polymorphism? (Technical Interview variant 23)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-052",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Explain deadlock. (Technical Interview variant 24)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-053",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "How does hashing work? (Technical Interview variant 25)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-054",
+    "category": "Technical Interview",
+    "difficulty": "Hard",
+    "question": "Explain time complexity. (Technical Interview variant 26)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-055",
+    "category": "Technical Interview",
+    "difficulty": "Easy",
+    "question": "Describe normalization. (Technical Interview variant 27)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-056",
+    "category": "Technical Interview",
+    "difficulty": "Medium",
+    "question": "What is polymorphism? (Technical Interview variant 28)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for technical interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-057",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 1)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-058",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Tell me about a failure. (Behavioral Interview variant 2)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-059",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Give an example of leadership. (Behavioral Interview variant 3)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-060",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "How do you handle pressure? (Behavioral Interview variant 4)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-061",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Describe teamwork. (Behavioral Interview variant 5)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-062",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 6)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-063",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Tell me about a failure. (Behavioral Interview variant 7)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-064",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Give an example of leadership. (Behavioral Interview variant 8)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-065",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "How do you handle pressure? (Behavioral Interview variant 9)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-066",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Describe teamwork. (Behavioral Interview variant 10)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-067",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 11)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-068",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Tell me about a failure. (Behavioral Interview variant 12)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-069",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Give an example of leadership. (Behavioral Interview variant 13)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-070",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "How do you handle pressure? (Behavioral Interview variant 14)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-071",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Describe teamwork. (Behavioral Interview variant 15)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-072",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 16)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-073",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Tell me about a failure. (Behavioral Interview variant 17)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-074",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Give an example of leadership. (Behavioral Interview variant 18)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-075",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "How do you handle pressure? (Behavioral Interview variant 19)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-076",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Describe teamwork. (Behavioral Interview variant 20)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-077",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 21)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-078",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Tell me about a failure. (Behavioral Interview variant 22)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-079",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Give an example of leadership. (Behavioral Interview variant 23)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-080",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "How do you handle pressure? (Behavioral Interview variant 24)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-081",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Describe teamwork. (Behavioral Interview variant 25)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-082",
+    "category": "Behavioral Interview",
+    "difficulty": "Easy",
+    "question": "Describe a conflict you resolved. (Behavioral Interview variant 26)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-083",
+    "category": "Behavioral Interview",
+    "difficulty": "Medium",
+    "question": "Tell me about a failure. (Behavioral Interview variant 27)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-084",
+    "category": "Behavioral Interview",
+    "difficulty": "Hard",
+    "question": "Give an example of leadership. (Behavioral Interview variant 28)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for behavioral interview.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-085",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Explain your final year project. (Resume-Based Questions variant 1)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-086",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 2)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-087",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 3)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-088",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "How did your internship help you? (Resume-Based Questions variant 4)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-089",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Defend one resume achievement. (Resume-Based Questions variant 5)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-090",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "Explain your final year project. (Resume-Based Questions variant 6)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-091",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 7)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-092",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 8)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-093",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "How did your internship help you? (Resume-Based Questions variant 9)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-094",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Defend one resume achievement. (Resume-Based Questions variant 10)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-095",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Explain your final year project. (Resume-Based Questions variant 11)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-096",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 12)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-097",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 13)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-098",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "How did your internship help you? (Resume-Based Questions variant 14)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-099",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "Defend one resume achievement. (Resume-Based Questions variant 15)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-100",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Explain your final year project. (Resume-Based Questions variant 16)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-101",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 17)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-102",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 18)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-103",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "How did your internship help you? (Resume-Based Questions variant 19)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-104",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Defend one resume achievement. (Resume-Based Questions variant 20)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-105",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "Explain your final year project. (Resume-Based Questions variant 21)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-106",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 22)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-107",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 23)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-108",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "How did your internship help you? (Resume-Based Questions variant 24)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-109",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "Defend one resume achievement. (Resume-Based Questions variant 25)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-110",
+    "category": "Resume-Based Questions",
+    "difficulty": "Medium",
+    "question": "Explain your final year project. (Resume-Based Questions variant 26)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-111",
+    "category": "Resume-Based Questions",
+    "difficulty": "Hard",
+    "question": "Why did you choose this tech stack? (Resume-Based Questions variant 27)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  },
+  {
+    "id": "int-bank-112",
+    "category": "Resume-Based Questions",
+    "difficulty": "Easy",
+    "question": "What was the hardest bug you fixed? (Resume-Based Questions variant 28)",
+    "expectedFocus": "Show clarity, structure, evidence, and role alignment for resume-based questions.",
+    "sampleAnswer": "A strong answer starts with concise context, gives one concrete example, explains your individual action, and ends with measurable learning or impact relevant to the role.",
+    "tips": [
+      "Keep the answer structured and specific.",
+      "Use metrics or concrete outcomes wherever possible.",
+      "Connect the answer back to the job role."
+    ]
+  }
+]

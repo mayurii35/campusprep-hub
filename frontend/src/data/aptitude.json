@@ -1,0 +1,3890 @@
+[
+  {
+    "_id": "apt-001",
+    "id": "apt-001",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 1",
+    "difficulty": "Easy",
+    "questionText": "A value 40 is increased by 5%. What is the new value?",
+    "options": [
+      "42",
+      "44",
+      "39",
+      "47"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 5/100 = 2.00. New value = 40 x 105/100 = 42."
+  },
+  {
+    "_id": "apt-002",
+    "id": "apt-002",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 2",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-003",
+    "id": "apt-003",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 3",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-004",
+    "id": "apt-004",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 4",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-005",
+    "id": "apt-005",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 5",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-006",
+    "id": "apt-006",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 6",
+    "difficulty": "Hard",
+    "questionText": "A value 45 is increased by 30%. What is the new value?",
+    "options": [
+      "59",
+      "61",
+      "56",
+      "64"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 30/100 = 13.50. New value = 45 x 130/100 = 59."
+  },
+  {
+    "_id": "apt-007",
+    "id": "apt-007",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 7",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-008",
+    "id": "apt-008",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 8",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-009",
+    "id": "apt-009",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 9",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-010",
+    "id": "apt-010",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 10",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-011",
+    "id": "apt-011",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 11",
+    "difficulty": "Medium",
+    "questionText": "A value 50 is increased by 15%. What is the new value?",
+    "options": [
+      "58",
+      "60",
+      "55",
+      "63"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 15/100 = 7.50. New value = 50 x 115/100 = 58."
+  },
+  {
+    "_id": "apt-012",
+    "id": "apt-012",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 12",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-013",
+    "id": "apt-013",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 13",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-014",
+    "id": "apt-014",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 14",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-015",
+    "id": "apt-015",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 15",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-016",
+    "id": "apt-016",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 16",
+    "difficulty": "Easy",
+    "questionText": "A value 55 is increased by 40%. What is the new value?",
+    "options": [
+      "77",
+      "79",
+      "74",
+      "82"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 55 x 40/100 = 22.00. New value = 55 x 140/100 = 77."
+  },
+  {
+    "_id": "apt-017",
+    "id": "apt-017",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 17",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-018",
+    "id": "apt-018",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 18",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-019",
+    "id": "apt-019",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 19",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-020",
+    "id": "apt-020",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 20",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-021",
+    "id": "apt-021",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 21",
+    "difficulty": "Hard",
+    "questionText": "A value 60 is increased by 25%. What is the new value?",
+    "options": [
+      "75",
+      "77",
+      "72",
+      "80"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 25/100 = 15.00. New value = 60 x 125/100 = 75."
+  },
+  {
+    "_id": "apt-022",
+    "id": "apt-022",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 22",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-023",
+    "id": "apt-023",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 23",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-024",
+    "id": "apt-024",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 24",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-025",
+    "id": "apt-025",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 25",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-026",
+    "id": "apt-026",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 26",
+    "difficulty": "Medium",
+    "questionText": "A value 65 is increased by 10%. What is the new value?",
+    "options": [
+      "72",
+      "74",
+      "69",
+      "77"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 10/100 = 6.50. New value = 65 x 110/100 = 72."
+  },
+  {
+    "_id": "apt-027",
+    "id": "apt-027",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 27",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-028",
+    "id": "apt-028",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 28",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-029",
+    "id": "apt-029",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 29",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-030",
+    "id": "apt-030",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 30",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-031",
+    "id": "apt-031",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 31",
+    "difficulty": "Easy",
+    "questionText": "A value 70 is increased by 35%. What is the new value?",
+    "options": [
+      "95",
+      "97",
+      "92",
+      "100"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 35/100 = 24.50. New value = 70 x 135/100 = 95."
+  },
+  {
+    "_id": "apt-032",
+    "id": "apt-032",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 32",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-033",
+    "id": "apt-033",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 33",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-034",
+    "id": "apt-034",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 34",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-035",
+    "id": "apt-035",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 35",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-036",
+    "id": "apt-036",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 36",
+    "difficulty": "Hard",
+    "questionText": "A value 40 is increased by 20%. What is the new value?",
+    "options": [
+      "48",
+      "50",
+      "45",
+      "53"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 20/100 = 8.00. New value = 40 x 120/100 = 48."
+  },
+  {
+    "_id": "apt-037",
+    "id": "apt-037",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 37",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-038",
+    "id": "apt-038",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 38",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-039",
+    "id": "apt-039",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 39",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-040",
+    "id": "apt-040",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 40",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-041",
+    "id": "apt-041",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 41",
+    "difficulty": "Medium",
+    "questionText": "A value 45 is increased by 5%. What is the new value?",
+    "options": [
+      "47",
+      "49",
+      "44",
+      "52"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 5/100 = 2.25. New value = 45 x 105/100 = 47."
+  },
+  {
+    "_id": "apt-042",
+    "id": "apt-042",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 42",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-043",
+    "id": "apt-043",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 43",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-044",
+    "id": "apt-044",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 44",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-045",
+    "id": "apt-045",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 45",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-046",
+    "id": "apt-046",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 46",
+    "difficulty": "Easy",
+    "questionText": "A value 50 is increased by 30%. What is the new value?",
+    "options": [
+      "65",
+      "67",
+      "62",
+      "70"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 30/100 = 15.00. New value = 50 x 130/100 = 65."
+  },
+  {
+    "_id": "apt-047",
+    "id": "apt-047",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 47",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-048",
+    "id": "apt-048",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 48",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-049",
+    "id": "apt-049",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 49",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-050",
+    "id": "apt-050",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 50",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-051",
+    "id": "apt-051",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 51",
+    "difficulty": "Hard",
+    "questionText": "A value 55 is increased by 15%. What is the new value?",
+    "options": [
+      "63",
+      "65",
+      "60",
+      "68"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 55 x 15/100 = 8.25. New value = 55 x 115/100 = 63."
+  },
+  {
+    "_id": "apt-052",
+    "id": "apt-052",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 52",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-053",
+    "id": "apt-053",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 53",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-054",
+    "id": "apt-054",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 54",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-055",
+    "id": "apt-055",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 55",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-056",
+    "id": "apt-056",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 56",
+    "difficulty": "Medium",
+    "questionText": "A value 60 is increased by 40%. What is the new value?",
+    "options": [
+      "84",
+      "86",
+      "81",
+      "89"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 40/100 = 24.00. New value = 60 x 140/100 = 84."
+  },
+  {
+    "_id": "apt-057",
+    "id": "apt-057",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 57",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-058",
+    "id": "apt-058",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 58",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-059",
+    "id": "apt-059",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 59",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-060",
+    "id": "apt-060",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 60",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-061",
+    "id": "apt-061",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 61",
+    "difficulty": "Easy",
+    "questionText": "A value 65 is increased by 25%. What is the new value?",
+    "options": [
+      "81",
+      "83",
+      "78",
+      "86"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 25/100 = 16.25. New value = 65 x 125/100 = 81."
+  },
+  {
+    "_id": "apt-062",
+    "id": "apt-062",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 62",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-063",
+    "id": "apt-063",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 63",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-064",
+    "id": "apt-064",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 64",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-065",
+    "id": "apt-065",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 65",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-066",
+    "id": "apt-066",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 66",
+    "difficulty": "Hard",
+    "questionText": "A value 70 is increased by 10%. What is the new value?",
+    "options": [
+      "77",
+      "79",
+      "74",
+      "82"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 10/100 = 7.00. New value = 70 x 110/100 = 77."
+  },
+  {
+    "_id": "apt-067",
+    "id": "apt-067",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 67",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-068",
+    "id": "apt-068",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 68",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-069",
+    "id": "apt-069",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 69",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-070",
+    "id": "apt-070",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 70",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-071",
+    "id": "apt-071",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 71",
+    "difficulty": "Medium",
+    "questionText": "A value 40 is increased by 35%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 35/100 = 14.00. New value = 40 x 135/100 = 54."
+  },
+  {
+    "_id": "apt-072",
+    "id": "apt-072",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 72",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-073",
+    "id": "apt-073",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "title": "Percentages Practice 73",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-074",
+    "id": "apt-074",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "title": "Profit and Loss Practice 74",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-075",
+    "id": "apt-075",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "title": "Simple Interest Practice 75",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-076",
+    "id": "apt-076",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "title": "Compound Interest Practice 76",
+    "difficulty": "Easy",
+    "questionText": "A value 45 is increased by 20%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 20/100 = 9.00. New value = 45 x 120/100 = 54."
+  },
+  {
+    "_id": "apt-077",
+    "id": "apt-077",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "title": "Time and Work Practice 77",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-078",
+    "id": "apt-078",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "title": "Time Speed Distance Practice 78",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-079",
+    "id": "apt-079",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Averages",
+    "title": "Averages Practice 79",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-080",
+    "id": "apt-080",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "title": "Ratio and Proportion Practice 80",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-081",
+    "id": "apt-081",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Number System",
+    "title": "Number System Practice 81",
+    "difficulty": "Hard",
+    "questionText": "A value 50 is increased by 5%. What is the new value?",
+    "options": [
+      "53",
+      "55",
+      "50",
+      "58"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 5/100 = 2.50. New value = 50 x 105/100 = 53."
+  },
+  {
+    "_id": "apt-082",
+    "id": "apt-082",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Permutation and Combination",
+    "title": "Permutation and Combination Practice 82",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-083",
+    "id": "apt-083",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Probability",
+    "title": "Probability Practice 83",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-084",
+    "id": "apt-084",
+    "category": "aptitude",
+    "subCategory": "Quantitative Aptitude",
+    "topic": "Mixtures and Alligation",
+    "title": "Mixtures and Alligation Practice 84",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-085",
+    "id": "apt-085",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 1",
+    "difficulty": "Medium",
+    "questionText": "A value 50 is increased by 15%. What is the new value?",
+    "options": [
+      "58",
+      "60",
+      "55",
+      "63"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 15/100 = 7.50. New value = 50 x 115/100 = 58."
+  },
+  {
+    "_id": "apt-086",
+    "id": "apt-086",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 2",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-087",
+    "id": "apt-087",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 3",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-088",
+    "id": "apt-088",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 4",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-089",
+    "id": "apt-089",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 5",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-090",
+    "id": "apt-090",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 6",
+    "difficulty": "Easy",
+    "questionText": "A value 55 is increased by 40%. What is the new value?",
+    "options": [
+      "77",
+      "79",
+      "74",
+      "82"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 55 x 40/100 = 22.00. New value = 55 x 140/100 = 77."
+  },
+  {
+    "_id": "apt-091",
+    "id": "apt-091",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 7",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-092",
+    "id": "apt-092",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 8",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-093",
+    "id": "apt-093",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 9",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-094",
+    "id": "apt-094",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 10",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-095",
+    "id": "apt-095",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 11",
+    "difficulty": "Hard",
+    "questionText": "A value 60 is increased by 25%. What is the new value?",
+    "options": [
+      "75",
+      "77",
+      "72",
+      "80"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 25/100 = 15.00. New value = 60 x 125/100 = 75."
+  },
+  {
+    "_id": "apt-096",
+    "id": "apt-096",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 12",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-097",
+    "id": "apt-097",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 13",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-098",
+    "id": "apt-098",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 14",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-099",
+    "id": "apt-099",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 15",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-100",
+    "id": "apt-100",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 16",
+    "difficulty": "Medium",
+    "questionText": "A value 65 is increased by 10%. What is the new value?",
+    "options": [
+      "72",
+      "74",
+      "69",
+      "77"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 10/100 = 6.50. New value = 65 x 110/100 = 72."
+  },
+  {
+    "_id": "apt-101",
+    "id": "apt-101",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 17",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-102",
+    "id": "apt-102",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 18",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-103",
+    "id": "apt-103",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 19",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-104",
+    "id": "apt-104",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 20",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-105",
+    "id": "apt-105",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 21",
+    "difficulty": "Easy",
+    "questionText": "A value 70 is increased by 35%. What is the new value?",
+    "options": [
+      "95",
+      "97",
+      "92",
+      "100"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 35/100 = 24.50. New value = 70 x 135/100 = 95."
+  },
+  {
+    "_id": "apt-106",
+    "id": "apt-106",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 22",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-107",
+    "id": "apt-107",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 23",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-108",
+    "id": "apt-108",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 24",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-109",
+    "id": "apt-109",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 25",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-110",
+    "id": "apt-110",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 26",
+    "difficulty": "Hard",
+    "questionText": "A value 40 is increased by 20%. What is the new value?",
+    "options": [
+      "48",
+      "50",
+      "45",
+      "53"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 20/100 = 8.00. New value = 40 x 120/100 = 48."
+  },
+  {
+    "_id": "apt-111",
+    "id": "apt-111",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 27",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-112",
+    "id": "apt-112",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 28",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-113",
+    "id": "apt-113",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 29",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-114",
+    "id": "apt-114",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 30",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-115",
+    "id": "apt-115",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 31",
+    "difficulty": "Medium",
+    "questionText": "A value 45 is increased by 5%. What is the new value?",
+    "options": [
+      "47",
+      "49",
+      "44",
+      "52"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 5/100 = 2.25. New value = 45 x 105/100 = 47."
+  },
+  {
+    "_id": "apt-116",
+    "id": "apt-116",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 32",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-117",
+    "id": "apt-117",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 33",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-118",
+    "id": "apt-118",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 34",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-119",
+    "id": "apt-119",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 35",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-120",
+    "id": "apt-120",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 36",
+    "difficulty": "Easy",
+    "questionText": "A value 50 is increased by 30%. What is the new value?",
+    "options": [
+      "65",
+      "67",
+      "62",
+      "70"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 30/100 = 15.00. New value = 50 x 130/100 = 65."
+  },
+  {
+    "_id": "apt-121",
+    "id": "apt-121",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 37",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-122",
+    "id": "apt-122",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 38",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-123",
+    "id": "apt-123",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 39",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-124",
+    "id": "apt-124",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 40",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-125",
+    "id": "apt-125",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 41",
+    "difficulty": "Hard",
+    "questionText": "A value 55 is increased by 15%. What is the new value?",
+    "options": [
+      "63",
+      "65",
+      "60",
+      "68"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 55 x 15/100 = 8.25. New value = 55 x 115/100 = 63."
+  },
+  {
+    "_id": "apt-126",
+    "id": "apt-126",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 42",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-127",
+    "id": "apt-127",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 43",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-128",
+    "id": "apt-128",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 44",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-129",
+    "id": "apt-129",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 45",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-130",
+    "id": "apt-130",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 46",
+    "difficulty": "Medium",
+    "questionText": "A value 60 is increased by 40%. What is the new value?",
+    "options": [
+      "84",
+      "86",
+      "81",
+      "89"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 40/100 = 24.00. New value = 60 x 140/100 = 84."
+  },
+  {
+    "_id": "apt-131",
+    "id": "apt-131",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 47",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-132",
+    "id": "apt-132",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 48",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-133",
+    "id": "apt-133",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 49",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-134",
+    "id": "apt-134",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 50",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-135",
+    "id": "apt-135",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 51",
+    "difficulty": "Easy",
+    "questionText": "A value 65 is increased by 25%. What is the new value?",
+    "options": [
+      "81",
+      "83",
+      "78",
+      "86"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 25/100 = 16.25. New value = 65 x 125/100 = 81."
+  },
+  {
+    "_id": "apt-136",
+    "id": "apt-136",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 52",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-137",
+    "id": "apt-137",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 53",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-138",
+    "id": "apt-138",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 54",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-139",
+    "id": "apt-139",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 55",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-140",
+    "id": "apt-140",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 56",
+    "difficulty": "Hard",
+    "questionText": "A value 70 is increased by 10%. What is the new value?",
+    "options": [
+      "77",
+      "79",
+      "74",
+      "82"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 10/100 = 7.00. New value = 70 x 110/100 = 77."
+  },
+  {
+    "_id": "apt-141",
+    "id": "apt-141",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 57",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-142",
+    "id": "apt-142",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 58",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-143",
+    "id": "apt-143",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 59",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-144",
+    "id": "apt-144",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 60",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-145",
+    "id": "apt-145",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 61",
+    "difficulty": "Medium",
+    "questionText": "A value 40 is increased by 35%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 35/100 = 14.00. New value = 40 x 135/100 = 54."
+  },
+  {
+    "_id": "apt-146",
+    "id": "apt-146",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 62",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-147",
+    "id": "apt-147",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Coding Decoding",
+    "title": "Coding Decoding Practice 63",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-148",
+    "id": "apt-148",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Syllogism",
+    "title": "Syllogism Practice 64",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-149",
+    "id": "apt-149",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Directions",
+    "title": "Directions Practice 65",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-150",
+    "id": "apt-150",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "title": "Seating Arrangement Practice 66",
+    "difficulty": "Easy",
+    "questionText": "A value 45 is increased by 20%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 20/100 = 9.00. New value = 45 x 120/100 = 54."
+  },
+  {
+    "_id": "apt-151",
+    "id": "apt-151",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Puzzles",
+    "title": "Puzzles Practice 67",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-152",
+    "id": "apt-152",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Analogy",
+    "title": "Analogy Practice 68",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-153",
+    "id": "apt-153",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Data Sufficiency",
+    "title": "Data Sufficiency Practice 69",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-154",
+    "id": "apt-154",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Clocks and Calendars",
+    "title": "Clocks and Calendars Practice 70",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-155",
+    "id": "apt-155",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Number Series",
+    "title": "Number Series Practice 71",
+    "difficulty": "Hard",
+    "questionText": "A value 50 is increased by 5%. What is the new value?",
+    "options": [
+      "53",
+      "55",
+      "50",
+      "58"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 5/100 = 2.50. New value = 50 x 105/100 = 53."
+  },
+  {
+    "_id": "apt-156",
+    "id": "apt-156",
+    "category": "aptitude",
+    "subCategory": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "title": "Blood Relations Practice 72",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-157",
+    "id": "apt-157",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 1",
+    "difficulty": "Hard",
+    "questionText": "A value 60 is increased by 25%. What is the new value?",
+    "options": [
+      "75",
+      "77",
+      "72",
+      "80"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 25/100 = 15.00. New value = 60 x 125/100 = 75."
+  },
+  {
+    "_id": "apt-158",
+    "id": "apt-158",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 2",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-159",
+    "id": "apt-159",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 3",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-160",
+    "id": "apt-160",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 4",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-161",
+    "id": "apt-161",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 5",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-162",
+    "id": "apt-162",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 6",
+    "difficulty": "Medium",
+    "questionText": "A value 65 is increased by 10%. What is the new value?",
+    "options": [
+      "72",
+      "74",
+      "69",
+      "77"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 10/100 = 6.50. New value = 65 x 110/100 = 72."
+  },
+  {
+    "_id": "apt-163",
+    "id": "apt-163",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 7",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-164",
+    "id": "apt-164",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 8",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-165",
+    "id": "apt-165",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 9",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-166",
+    "id": "apt-166",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 10",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-167",
+    "id": "apt-167",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 11",
+    "difficulty": "Easy",
+    "questionText": "A value 70 is increased by 35%. What is the new value?",
+    "options": [
+      "95",
+      "97",
+      "92",
+      "100"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 35/100 = 24.50. New value = 70 x 135/100 = 95."
+  },
+  {
+    "_id": "apt-168",
+    "id": "apt-168",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 12",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-169",
+    "id": "apt-169",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 13",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-170",
+    "id": "apt-170",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 14",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-171",
+    "id": "apt-171",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 15",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-172",
+    "id": "apt-172",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 16",
+    "difficulty": "Hard",
+    "questionText": "A value 40 is increased by 20%. What is the new value?",
+    "options": [
+      "48",
+      "50",
+      "45",
+      "53"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 20/100 = 8.00. New value = 40 x 120/100 = 48."
+  },
+  {
+    "_id": "apt-173",
+    "id": "apt-173",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 17",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-174",
+    "id": "apt-174",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 18",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-175",
+    "id": "apt-175",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 19",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-176",
+    "id": "apt-176",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 20",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-177",
+    "id": "apt-177",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 21",
+    "difficulty": "Medium",
+    "questionText": "A value 45 is increased by 5%. What is the new value?",
+    "options": [
+      "47",
+      "49",
+      "44",
+      "52"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 5/100 = 2.25. New value = 45 x 105/100 = 47."
+  },
+  {
+    "_id": "apt-178",
+    "id": "apt-178",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 22",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-179",
+    "id": "apt-179",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 23",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-180",
+    "id": "apt-180",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 24",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-181",
+    "id": "apt-181",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 25",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-182",
+    "id": "apt-182",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 26",
+    "difficulty": "Easy",
+    "questionText": "A value 50 is increased by 30%. What is the new value?",
+    "options": [
+      "65",
+      "67",
+      "62",
+      "70"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 50 x 30/100 = 15.00. New value = 50 x 130/100 = 65."
+  },
+  {
+    "_id": "apt-183",
+    "id": "apt-183",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 27",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-184",
+    "id": "apt-184",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 28",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-185",
+    "id": "apt-185",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 29",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-186",
+    "id": "apt-186",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 30",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-187",
+    "id": "apt-187",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 31",
+    "difficulty": "Hard",
+    "questionText": "A value 55 is increased by 15%. What is the new value?",
+    "options": [
+      "63",
+      "65",
+      "60",
+      "68"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 55 x 15/100 = 8.25. New value = 55 x 115/100 = 63."
+  },
+  {
+    "_id": "apt-188",
+    "id": "apt-188",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 32",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-189",
+    "id": "apt-189",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 33",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 16 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "34/288",
+      "1/34",
+      "288/34",
+      "2/34"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/16 and B's is 1/18. Together = 1/16 + 1/18 = 34/288."
+  },
+  {
+    "_id": "apt-190",
+    "id": "apt-190",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 34",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-191",
+    "id": "apt-191",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 35",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"PRUDENT\".",
+    "options": [
+      "wise and careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"prudent\" most closely means \"wise and careful\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-192",
+    "id": "apt-192",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 36",
+    "difficulty": "Medium",
+    "questionText": "A value 60 is increased by 40%. What is the new value?",
+    "options": [
+      "84",
+      "86",
+      "81",
+      "89"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 60 x 40/100 = 24.00. New value = 60 x 140/100 = 84."
+  },
+  {
+    "_id": "apt-193",
+    "id": "apt-193",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 37",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-194",
+    "id": "apt-194",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 38",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 14 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "32/252",
+      "1/32",
+      "252/32",
+      "2/32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/14 and B's is 1/18. Together = 1/14 + 1/18 = 32/252."
+  },
+  {
+    "_id": "apt-195",
+    "id": "apt-195",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 39",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-196",
+    "id": "apt-196",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 40",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"DILIGENT\".",
+    "options": [
+      "hard-working",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"diligent\" most closely means \"hard-working\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-197",
+    "id": "apt-197",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 41",
+    "difficulty": "Easy",
+    "questionText": "A value 65 is increased by 25%. What is the new value?",
+    "options": [
+      "81",
+      "83",
+      "78",
+      "86"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 65 x 25/100 = 16.25. New value = 65 x 125/100 = 81."
+  },
+  {
+    "_id": "apt-198",
+    "id": "apt-198",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 42",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 110 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 120",
+      "Rs. 112",
+      "Rs. 132",
+      "Rs. 119"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 110 x 109/100 = Rs. 120."
+  },
+  {
+    "_id": "apt-199",
+    "id": "apt-199",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 43",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 12 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "30/216",
+      "1/30",
+      "216/30",
+      "2/30"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/12 and B's is 1/18. Together = 1/12 + 1/18 = 30/216."
+  },
+  {
+    "_id": "apt-200",
+    "id": "apt-200",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 44",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 11, 17, 23, 29, ?",
+    "options": [
+      "35",
+      "41",
+      "34",
+      "37"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 6. Therefore the next term is 29 + 6 = 35."
+  },
+  {
+    "_id": "apt-201",
+    "id": "apt-201",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 45",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"AMBIGUOUS\".",
+    "options": [
+      "unclear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"ambiguous\" most closely means \"unclear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-202",
+    "id": "apt-202",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 46",
+    "difficulty": "Hard",
+    "questionText": "A value 70 is increased by 10%. What is the new value?",
+    "options": [
+      "77",
+      "79",
+      "74",
+      "82"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 70 x 10/100 = 7.00. New value = 70 x 110/100 = 77."
+  },
+  {
+    "_id": "apt-203",
+    "id": "apt-203",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 47",
+    "difficulty": "Easy",
+    "questionText": "An article costs Rs. 160 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 182",
+      "Rs. 174",
+      "Rs. 194",
+      "Rs. 174"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 160 x 114/100 = Rs. 182."
+  },
+  {
+    "_id": "apt-204",
+    "id": "apt-204",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 48",
+    "difficulty": "Medium",
+    "questionText": "A can finish a task in 10 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "28/180",
+      "1/28",
+      "180/28",
+      "2/28"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/10 and B's is 1/18. Together = 1/10 + 1/18 = 28/180."
+  },
+  {
+    "_id": "apt-205",
+    "id": "apt-205",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 49",
+    "difficulty": "Hard",
+    "questionText": "Find the next number in the series: 5, 8, 11, 14, 17, ?",
+    "options": [
+      "20",
+      "23",
+      "19",
+      "22"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 3. Therefore the next term is 17 + 3 = 20."
+  },
+  {
+    "_id": "apt-206",
+    "id": "apt-206",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 50",
+    "difficulty": "Easy",
+    "questionText": "Choose the closest meaning of the word \"CONCISE\".",
+    "options": [
+      "brief and clear",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"concise\" most closely means \"brief and clear\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-207",
+    "id": "apt-207",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 51",
+    "difficulty": "Medium",
+    "questionText": "A value 40 is increased by 35%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 40 x 35/100 = 14.00. New value = 40 x 135/100 = 54."
+  },
+  {
+    "_id": "apt-208",
+    "id": "apt-208",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Error Spotting",
+    "title": "Error Spotting Practice 52",
+    "difficulty": "Hard",
+    "questionText": "An article costs Rs. 210 and is sold at a profit of 9%. Find the selling price.",
+    "options": [
+      "Rs. 229",
+      "Rs. 221",
+      "Rs. 241",
+      "Rs. 219"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 210 x 109/100 = Rs. 229."
+  },
+  {
+    "_id": "apt-209",
+    "id": "apt-209",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Idioms and Phrases",
+    "title": "Idioms and Phrases Practice 53",
+    "difficulty": "Easy",
+    "questionText": "A can finish a task in 8 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "26/144",
+      "1/26",
+      "144/26",
+      "2/26"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/8 and B's is 1/18. Together = 1/8 + 1/18 = 26/144."
+  },
+  {
+    "_id": "apt-210",
+    "id": "apt-210",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Critical Reasoning",
+    "title": "Critical Reasoning Practice 54",
+    "difficulty": "Medium",
+    "questionText": "Find the next number in the series: 5, 9, 13, 17, 21, ?",
+    "options": [
+      "25",
+      "29",
+      "24",
+      "27"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 4. Therefore the next term is 21 + 4 = 25."
+  },
+  {
+    "_id": "apt-211",
+    "id": "apt-211",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Synonyms",
+    "title": "Synonyms Practice 55",
+    "difficulty": "Hard",
+    "questionText": "Choose the closest meaning of the word \"RESILIENT\".",
+    "options": [
+      "able to recover",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"resilient\" most closely means \"able to recover\" in placement verbal ability contexts."
+  },
+  {
+    "_id": "apt-212",
+    "id": "apt-212",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Antonyms",
+    "title": "Antonyms Practice 56",
+    "difficulty": "Easy",
+    "questionText": "A value 45 is increased by 20%. What is the new value?",
+    "options": [
+      "54",
+      "56",
+      "51",
+      "59"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Increase = 45 x 20/100 = 9.00. New value = 45 x 120/100 = 54."
+  },
+  {
+    "_id": "apt-213",
+    "id": "apt-213",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Sentence Correction",
+    "title": "Sentence Correction Practice 57",
+    "difficulty": "Medium",
+    "questionText": "An article costs Rs. 260 and is sold at a profit of 14%. Find the selling price.",
+    "options": [
+      "Rs. 296",
+      "Rs. 288",
+      "Rs. 308",
+      "Rs. 274"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Selling price = cost price x (100 + profit%)/100 = 260 x 114/100 = Rs. 296."
+  },
+  {
+    "_id": "apt-214",
+    "id": "apt-214",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "title": "Reading Comprehension Practice 58",
+    "difficulty": "Hard",
+    "questionText": "A can finish a task in 18 days and B can finish it in 18 days. What is their combined one-day work?",
+    "options": [
+      "36/324",
+      "1/36",
+      "324/36",
+      "2/36"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A's work per day is 1/18 and B's is 1/18. Together = 1/18 + 1/18 = 36/324."
+  },
+  {
+    "_id": "apt-215",
+    "id": "apt-215",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "title": "Para Jumbles Practice 59",
+    "difficulty": "Easy",
+    "questionText": "Find the next number in the series: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "29",
+      "32"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The series increases by a constant difference of 5. Therefore the next term is 25 + 5 = 30."
+  },
+  {
+    "_id": "apt-216",
+    "id": "apt-216",
+    "category": "aptitude",
+    "subCategory": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "title": "Fill in the Blanks Practice 60",
+    "difficulty": "Medium",
+    "questionText": "Choose the closest meaning of the word \"METICULOUS\".",
+    "options": [
+      "very careful",
+      "careless",
+      "unrelated",
+      "temporary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "\"meticulous\" most closely means \"very careful\" in placement verbal ability contexts."
+  }
+]
